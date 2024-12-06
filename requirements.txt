@@ -1,0 +1,4 @@
+python=3.11.5
+pandas=2.1.1
+numpy=1.24.3
+selenium=4.21.0

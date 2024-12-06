@@ -1,0 +1,993 @@
+Address,Suburb,State,Post code,Price,Property type,Bed,Bath,Parking
+3/9 Lambert Street,CAMMERAY,NSW,2062,690.0,Apartment / Unit / Flat,2,1,0
+18 Chatham Way,HARRISDALE,WA,6112,820.0,House,4,2,2
+102/157-163 Burwood Road,HAWTHORN,VIC,3122,580.0,Apartment / Unit / Flat,2,1,1
+77 Unnaro St,COOLOONGUP,WA,6168,570.0,House,3,2,3
+7/77 Milson Road,CREMORNE POINT,NSW,2090,850.0,Apartment / Unit / Flat,2,1,0
+6B/83 Homer Street,EARLWOOD,NSW,2206,695.0,Apartment / Unit / Flat,2,1,1
+18/29 Dalgety Street,ST KILDA,VIC,3182,500.0,Apartment / Unit / Flat,2,1,1
+3/4-8 Burford Street,MERRYLANDS,NSW,2160,620.0,Apartment / Unit / Flat,2,2,1
+95 Grovelands Drive,CAMILLO,WA,6111,595.0,House,3,2,1
+48/27-33 Boundary St,ROSEVILLE,NSW,2069,810.0,Apartment / Unit / Flat,2,2,1
+LG03/24 Dumaresq Street,GORDON,NSW,2072,850.0,Apartment / Unit / Flat,2,2,1
+625/99 Jones Street,ULTIMO,NSW,2007,670.0,Apartment / Unit / Flat,1,1,0
+150/9 Letitia Street,ZETLAND,NSW,2017,790.0,Apartment / Unit / Flat,1,1,0
+112 Pringle Avenue,BANKSTOWN,NSW,2200,850.0,House,3,2,4
+216/4 Anzac Park,CAMPBELL,ACT,2612,640.0,Apartment / Unit / Flat,2,2,1
+7 Daykin Close,REDLYNCH,QLD,4870,850.0,House,4,2,2
+12 Strutton Place,MOOROOBOOL,QLD,4870,1000.0,House,4,2,3
+1 Beatrix Street,GREENSBOROUGH,VIC,3088,650.0,House,3,2,2
+20 North Bank Court,HELENSVALE,QLD,4212,1850.0,House,5,4,5
+23 Walker Street,REDFERN,NSW,2016,1100.0,House,3,1,0
+240 Albion Street,BRUNSWICK,VIC,3056,850.0,House,3,1,1
+1022/161 New South Head Road,EDGECLIFF,NSW,2027,1250.0,Apartment / Unit / Flat,2,2,2
+17/95 Mason Street,MAROUBRA,NSW,2035,920.0,Apartment / Unit / Flat,2,2,1
+204/36 Darling Street,SOUTH YARRA,VIC,3141,600.0,Apartment / Unit / Flat,2,1,1
+310/91-93 Flemington Road,NORTH MELBOURNE,VIC,3051,475.0,Apartment / Unit / Flat,1,1,0
+2/6b Grandstand Parade,ZETLAND,NSW,2017,750.0,Apartment / Unit / Flat,1,1,1
+223 Waterloo Street,TUART HILL,WA,6060,750.0,House,3,2,2
+205/231 Miller Street,NORTH SYDNEY,NSW,2060,700.0,Apartment / Unit / Flat,1,1,0
+39 Southaven Drive,HELENSVALE,QLD,4212,1600.0,House,4,2,2
+310/38 Oakden Street,GREENWAY,ACT,2900,440.0,Apartment / Unit / Flat,1,1,1
+Unit 15/61-65 Kensington Rd,KENSINGTON,NSW,2033,800.0,Apartment / Unit / Flat,2,1,1
+1101/33 Clarke Street,SOUTHBANK,VIC,3006,450.0,Apartment / Unit / Flat,1,1,0
+1/8 Tintern Road,ASHFIELD,NSW,2131,620.0,Apartment / Unit / Flat,2,1,1
+14A Godfrey Place,KINGSLEY,WA,6026,730.0,Semi-detached,3,2,1
+6/48-50 Serrell Street,MALVERN EAST,VIC,3145,560.0,Villa,3,1,1
+19 Twickenham Drive,DUBBO,NSW,2830,580.0,House,3,1,1
+8/233 Edgecliff Road,WOOLLAHRA,NSW,2025,670.0,Apartment / Unit / Flat,1,1,0
+401/115 Nott St,PORT MELBOURNE,VIC,3207,875.0,Apartment / Unit / Flat,2,2,1
+15/257-261 Darlinghurst Road,DARLINGHURST,NSW,2010,550.0,Apartment / Unit / Flat,0,1,0
+306/34 Eyre Street,KINGSTON,ACT,2604,600.0,Apartment / Unit / Flat,1,1,1
+226/1 Kalma Way,CAMPBELL,ACT,2612,800.0,Apartment / Unit / Flat,2,2,2
+124/70 Efkarpidis Street,GUNGAHLIN,ACT,2912,510.0,Apartment / Unit / Flat,1,1,1
+34 Mint Crescent,GRIFFIN,QLD,4503,600.0,House,4,2,2
+3/73 Kintail Road,APPLECROSS,WA,6153,1100.0,Apartment / Unit / Flat,3,2,2
+103/73 Lockhart Street,COMO,WA,6152,1050.0,Apartment / Unit / Flat,3,2,2
+109/122 Ormond Road,ELWOOD,VIC,3184,500.0,Apartment / Unit / Flat,1,1,1
+210/549-557 Liverpool Street,STRATHFIELD,NSW,2135,680.0,Apartment / Unit / Flat,2,1,1
+4 Neale Court,ANNANDALE,QLD,4814,750.0,House,5,2,2
+62 Seaview Avenue,MIDDLETON,SA,5213,485.0,House,3,1,1
+6/8 Mauna Loa Street,DARWIN CITY,NT,800,650.0,Apartment / Unit / Flat,2,2,2
+82/70 Efkarpidis Street,GUNGAHLIN,ACT,2912,495.0,Apartment / Unit / Flat,1,1,1
+B70272/11 Bennelong Parkway,WENTWORTH POINT,NSW,2127,730.0,Apartment / Unit / Flat,2,1,1
+1511/639 Lonsdale Street,MELBOURNE,VIC,3000,675.0,Apartment / Unit / Flat,2,2,0
+3/32 Warleigh Grove,BRIGHTON,VIC,3186,820.0,Apartment / Unit / Flat,2,2,2
+2/71 Port Jackson Circuit,PHILLIP,ACT,2606,486.0,House,2,1,1
+8/44 Edgar Street,GLEN IRIS,VIC,3146,480.0,Apartment / Unit / Flat,2,1,1
+3/162 Brighton Road,RIPPONLEA,VIC,3185,590.0,Apartment / Unit / Flat,2,1,1
+212 Birrell Street,BONDI JUNCTION,NSW,2022,1800.0,House,3,2,0
+808/38 Atchison Street,ST LEONARDS,NSW,2065,1190.0,Apartment / Unit / Flat,3,2,1
+2/123 Burns Bay Road,LANE COVE,NSW,2066,680.0,Apartment / Unit / Flat,2,1,1
+1/11 Ormond Road,ORMOND,VIC,3204,490.0,Apartment / Unit / Flat,2,1,1
+34 Munro Street,AUCHENFLOWER,QLD,4066,2500.0,House,4,3,2
+9 Bottlebrush Drive,CALDERWOOD,NSW,2527,800.0,House,4,2,1
+1/68-70 Rangers Road,CREMORNE,NSW,2090,750.0,Apartment / Unit / Flat,2,1,1
+58/47 Blackall Street,BARTON,ACT,2600,730.0,Apartment / Unit / Flat,2,2,1
+209/15 Baywater Drive,WENTWORTH POINT,NSW,2127,600.0,Apartment / Unit / Flat,1,1,1
+T111/119 Turner Street,ABBOTSFORD,VIC,3067,480.0,Apartment / Unit / Flat,1,1,1
+5021/3 Carlton Street,CHIPPENDALE,NSW,2008,830.0,Apartment / Unit / Flat,0,1,1
+1401/73 Victoria Street,POTTS POINT,NSW,2011,850.0,Apartment / Unit / Flat,1,1,1
+1.02/300 Oxford Street,BONDI JUNCTION,NSW,2022,825.0,Apartment / Unit / Flat,0,1,0
+1070/185 Broadway,ULTIMO,NSW,2007,700.0,Apartment / Unit / Flat,1,1,0
+136/70 Efkarpidis Street,GUNGAHLIN,ACT,2912,475.0,Apartment / Unit / Flat,1,1,0
+20B Court Road,DOUBLE BAY,NSW,2028,3000.0,House,4,2,2
+2/25 Blaxland Avenue,PENRITH,NSW,2750,500.0,Townhouse,2,1,1
+7 Manly Court,COBURG NORTH,VIC,3058,750.0,House,3,1,1
+405/239-245 Pacific Highway,NORTH SYDNEY,NSW,2060,670.0,Apartment / Unit / Flat,1,1,0
+2/50 Ann Street,SURRY HILLS,NSW,2010,1400.0,Apartment / Unit / Flat,3,2,1
+3/2 Victor Parade,SHOAL BAY,NSW,2315,450.0,Apartment / Unit / Flat,2,1,1
+11/20 Valentine Grove,ARMADALE,VIC,3143,475.0,Apartment / Unit / Flat,2,1,0
+8/18 William Street,TWEED HEADS SOUTH,NSW,2486,750.0,Townhouse,4,2,2
+3 Carlton St,CHIPPENDALE,NSW,2008,25.0,Apartment / Unit / Flat,1,1,0
+9/73 Garfield Street,FIVE DOCK,NSW,2046,750.0,House,2,1,1
+802/3 Gray Street,BONDI JUNCTION,NSW,2022,1000.0,Apartment / Unit / Flat,1,1,0
+6/313 Bronte Road,WAVERLEY,NSW,2024,1200.0,Townhouse,2,2,1
+301/16-18 Ferguson Avenue,WILEY PARK,NSW,2195,750.0,Apartment / Unit / Flat,3,2,2
+402/230-234 Georges River Road,CROYDON PARK,NSW,2133,650.0,Apartment / Unit / Flat,1,1,1
+5902/135 A'Beckett Street,MELBOURNE,VIC,3000,830.0,Apartment / Unit / Flat,2,2,1
+2 Deller Close,MIDDLE RIDGE,QLD,4350,660.0,House,4,2,2
+121 Wombeyan Caves Rd,WOODLANDS,NSW,2575,1500.0,House,4,2,2
+11 Pasco Drive,BURDELL,QLD,4818,680.0,House,4,2,2
+32 Hanover Road,CAMERON PARK,NSW,2285,670.0,Semi-detached,3,1,2
+27 Lennox St,BELLEVUE HILL,NSW,2023,1950.0,House,3,1,1
+306/54-60 Nott Street,PORT MELBOURNE,VIC,3207,450.0,Apartment / Unit / Flat,1,1,1
+124/6 Cowper Wharf Road,WOOLLOOMOOLOO,NSW,2011,1425.0,Apartment / Unit / Flat,2,2,2
+11/117-123 Bronte Road,BONDI JUNCTION,NSW,2022,900.0,Apartment / Unit / Flat,1,1,1
+508/55 Lavender Street,MILSONS POINT,NSW,2061,750.0,Apartment / Unit / Flat,1,1,0
+11 Frangipanni Street,BELLBIRD PARK,QLD,4300,660.0,House,4,2,2
+18/18-22 Cranbrook Avenue,CREMORNE,NSW,2090,720.0,Apartment / Unit / Flat,1,1,1
+10/1 Mcdougall Street,KIRRIBILLI,NSW,2061,780.0,Apartment / Unit / Flat,2,1,1
+35 Shelley Street,SYDNEY,NSW,2000,920.0,Apartment / Unit / Flat,1,1,1
+72 Cosmopolitan Drive,WYNDHAM VALE,VIC,3024,480.0,House,4,2,2
+1 Calypso Avenue,MOSMAN,NSW,2088,1800.0,House,4,3,2
+23 Shelley Street,SYDNEY,NSW,2000,980.0,Apartment / Unit / Flat,1,1,1
+13 Devlin St,GUNGAHLIN,ACT,2912,800.0,House,4,2,2
+3/3-5 Riley Street,NORTH SYDNEY,NSW,2060,645.0,Apartment / Unit / Flat,1,1,1
+73 Goodwood Street,HENDRA,QLD,4011,1200.0,House,4,2,2
+13 Cooney Road,ARTARMON,NSW,2064,1600.0,House,5,2,2
+57 Grangehill Mews,WYNDHAM VALE,VIC,3024,450.0,House,3,2,1
+3/435-437 Old South Head Road,ROSE BAY,NSW,2029,900.0,Apartment / Unit / Flat,2,1,1
+61/70 Efkarpidis Street,GUNGAHLIN,ACT,2912,475.0,Apartment / Unit / Flat,1,1,0
+1 Strong Place,BELCONNEN,ACT,2617,520.0,Townhouse,2,1,1
+14 Gooreen Street,REID,ACT,2612,1300.0,House,5,3,2
+626/7 Potter Street,WATERLOO,NSW,2017,650.0,Apartment / Unit / Flat,1,1,0
+2/183 Brougham Street,KEW,VIC,3101,515.0,Apartment / Unit / Flat,1,1,1
+59 Grangehill Mews,WYNDHAM VALE,VIC,3024,450.0,House,3,2,1
+5/12 Uriarra Road,QUEANBEYAN,NSW,2620,680.0,Townhouse,3,2,2
+3/24 Ijong Street,BRADDON,ACT,2612,685.0,Apartment / Unit / Flat,2,2,2
+21 Haig Street,PIMLICO,QLD,4812,630.0,House,3,2,2
+31 Noble Avenue,PUNCHBOWL,NSW,2196,950.0,House,3,2,2
+3 The Crescent,MOSMAN,NSW,2088,2500.0,House,5,3,2
+34 Morotai Avenue,ASHBURTON,VIC,3147,480.0,House,3,1,3
+3/38 Baker Street,ENFIELD,NSW,2136,795.0,Villa,3,1,2
+1104/6 Joseph Road,FOOTSCRAY,VIC,3011,620.0,Apartment / Unit / Flat,2,2,1
+2508/6 Joseph Road,FOOTSCRAY,VIC,3011,500.0,Apartment / Unit / Flat,1,1,1
+60 Sunshine Drive,CLEVELAND,QLD,4163,740.0,House,3,2,1
+47/18 College Street,DARLINGHURST,NSW,2010,1850.0,Apartment / Unit / Flat,2,2,1
+5 Finemore Street,COOMBS,ACT,2611,720.0,House,3,2,2
+2/1a Delacey Street,NORTH TOOWOOMBA,QLD,4350,250.0,Apartment / Unit / Flat,1,1,1
+14/17-23 Newland Street,BONDI JUNCTION,NSW,2022,1300.0,Apartment / Unit / Flat,2,2,1
+48 Spring Street East,PORT MELBOURNE,VIC,3207,765.0,House,2,1,0
+16 Maranatha Close,BELMONT NORTH,NSW,2280,950.0,House,4,2,4
+2 Marshall Place,NORTH RYDE,NSW,2113,800.0,House,3,1,2
+908L/639 Lonsdale Street,MELBOURNE,VIC,3000,600.0,Apartment / Unit / Flat,2,1,0
+34/3 Finlayson Street,LANE COVE,NSW,2066,1200.0,Apartment / Unit / Flat,3,2,2
+4/1 Johnston Lane,LANE COVE,NSW,2066,420.0,Studio,0,1,0
+1307/161 Emu Bank,BELCONNEN,ACT,2617,850.0,Apartment / Unit / Flat,2,2,2
+623/45 Amalfi Drive,WENTWORTH POINT,NSW,2127,620.0,Apartment / Unit / Flat,1,1,1
+49a Cooma Road,QUEANBEYAN,NSW,2620,725.0,Semi-detached,3,2,2
+331/24 Lonsdale Street,BRADDON,ACT,2612,690.0,Apartment / Unit / Flat,2,2,2
+688/10 Peters Street,ZETLAND,NSW,2017,850.0,Apartment / Unit / Flat,1,1,1
+212/83 Boolee Street,REID,ACT,2612,640.0,Apartment / Unit / Flat,2,2,2
+205/23 Batman Street,WEST MELBOURNE,VIC,3003,500.0,Apartment / Unit / Flat,1,1,0
+44 Cohen Street,MERRYLANDS,NSW,2160,750.0,House,3,2,1
+55 Parkwood Avenue,NARRE WARREN SOUTH,VIC,3805,710.0,House,4,2,2
+24/62 Riley Street,DARLINGHURST,NSW,2010,650.0,Apartment / Unit / Flat,1,1,0
+4 Stephen Street,WILLOUGHBY,NSW,2068,950.0,House,2,1,1
+4808/639 Lonsdale Street,MELBOURNE,VIC,3000,625.0,Apartment / Unit / Flat,1,1,1
+49 Ross Street,FOREST LODGE,NSW,2037,900.0,House,2,1,1
+67 View Street,WOOLLAHRA,NSW,2025,3200.0,House,3,2,2
+13/9 Wylde Street,POTTS POINT,NSW,2011,650.0,Apartment / Unit / Flat,1,1,0
+1/3 Stanley Street,RANDWICK,NSW,2031,840.0,Apartment / Unit / Flat,2,1,0
+28A Kumba Street,FLETCHER,NSW,2287,640.0,Semi-detached,3,2,1
+4/267 Borella Road,EAST ALBURY,NSW,2640,320.0,Apartment / Unit / Flat,1,1,1
+1 Cranford Avenue,ST IVES,NSW,2075,1995.0,House,5,3,1
+12 Ridding Street,FORDE,ACT,2914,570.0,House,2,1,1
+6/51 Prospect Street,SURRY HILLS,NSW,2010,850.0,Apartment / Unit / Flat,1,1,0
+14A Musgrave Street,MOSMAN,NSW,2088,2700.0,House,3,2,2
+19/49 New Canterbury Road,PETERSHAM,NSW,2049,650.0,House,1,1,1
+4/1 Church Street,RANDWICK,NSW,2031,900.0,Apartment / Unit / Flat,2,1,1
+34 Blatchford St,STRATHPINE,QLD,4500,650.0,House,3,2,2
+811/1 Elouera Street,BRADDON,ACT,2612,735.0,Apartment / Unit / Flat,2,2,2
+53/126 Thynne Street,BRUCE,ACT,2617,460.0,Apartment / Unit / Flat,1,1,1
+6/154 Alma Road,ST KILDA EAST,VIC,3183,620.0,Apartment / Unit / Flat,2,1,1
+303/44 Barkly Street,ST KILDA,VIC,3182,350.0,Studio,1,1,1
+27/10 Burke Crescent,KINGSTON,ACT,2604,710.0,Apartment / Unit / Flat,2,2,2
+9/191 Grange Road,GLEN HUNTLY,VIC,3163,350.0,Apartment / Unit / Flat,1,1,0
+2/12 McMAHON PLACE,WODONGA,VIC,3690,380.0,Apartment / Unit / Flat,2,1,1
+3/12A Cecil Street,ASHFIELD,NSW,2131,650.0,Apartment / Unit / Flat,2,1,0
+902/31 Wellington Street,COLLINGWOOD,VIC,3066,2500.0,Apartment / Unit / Flat,3,3,2
+45/1 Lamond Drive,TURRAMURRA,NSW,2074,740.0,Apartment / Unit / Flat,2,2,1
+12/8 Edmondson Street,CAMPBELL,ACT,2612,570.0,Apartment / Unit / Flat,2,1,1
+91/267-277 Castlereagh Street,SYDNEY,NSW,2000,1800.0,Apartment / Unit / Flat,3,2,1
+1102/271 Gouger Street,ADELAIDE,SA,5000,650.0,Apartment / Unit / Flat,2,1,1
+5/47 Majura Avenue,DICKSON,ACT,2602,500.0,Apartment / Unit / Flat,1,1,1
+333/38 Eyre Street,KINGSTON,ACT,2604,650.0,Apartment / Unit / Flat,2,1,1
+602/49 Hill Road,WENTWORTH POINT,NSW,2127,735.0,Apartment / Unit / Flat,2,2,1
+163/395 Antill Street,WATSON,ACT,2602,580.0,Apartment / Unit / Flat,2,2,2
+7/53-55 Spencer Street,ROSE BAY,NSW,2029,1250.0,Apartment / Unit / Flat,2,2,2
+96 Caddies Boulevard,ROUSE HILL,NSW,2155,830.0,House,3,2,2
+5 Surveyor Street,QUEANBEYAN,NSW,2620,575.0,House,3,1,1
+1002/33 Clarke Street,SOUTHBANK,VIC,3006,450.0,Apartment / Unit / Flat,1,1,0
+218/25 Trent Street,GLEN IRIS,VIC,3146,520.0,Apartment / Unit / Flat,1,1,1
+713/2A Help Street,CHATSWOOD,NSW,2067,750.0,Apartment / Unit / Flat,1,1,1
+605/11 Railway Street,CHATSWOOD,NSW,2067,950.0,Apartment / Unit / Flat,2,2,1
+4 Narelle Street,NORTH BONDI,NSW,2026,1995.0,House,4,2,1
+33 Ormond Street,ASHFIELD,NSW,2131,490.0,Studio,0,1,0
+33 Ormond Street,ASHFIELD,NSW,2131,520.0,Studio,0,1,0
+6/26 Belmore Street,RYDE,NSW,2112,500.0,Apartment / Unit / Flat,2,1,1
+10 Edmund Street,CHATSWOOD,NSW,2067,1350.0,House,4,2,2
+46a Grose Vale Road,NORTH RICHMOND,NSW,2754,750.0,House,4,2,3
+7/91 Beach Road,SANDRINGHAM,VIC,3191,625.0,Apartment / Unit / Flat,2,1,1
+108/77 Nott Street,PORT MELBOURNE,VIC,3207,525.0,Apartment / Unit / Flat,1,1,1
+9 Nursery Street,HORNSBY,NSW,2077,700.0,House,3,1,2
+5-7 Little Road,BANKSTOWN,NSW,2200,700.0,House,3,1,1
+103/445 Royal Parade,PARKVILLE,VIC,3052,450.0,Apartment / Unit / Flat,1,1,1
+10/29-31 Sherbrook Road,HORNSBY,NSW,2077,620.0,Apartment / Unit / Flat,2,1,1
+16 Bebbington Street,ZILLMERE,QLD,4034,750.0,House,3,2,4
+2/14A Haeusler Drive,NAIRNE,SA,5252,510.0,House,3,1,1
+1/246 Glebe Point Road,GLEBE,NSW,2037,750.0,Apartment / Unit / Flat,1,1,1
+4/3 Walkers Avenue,NEWNHAM,TAS,7248,250.0,House,1,1,1
+22 Beckwith Ave,ALPHINGTON,VIC,3078,1100.0,Townhouse,4,2,2
+6E/481 St Kilda Road,MELBOURNE,VIC,3004,1500.0,Apartment / Unit / Flat,3,2,2
+608/51 Napoleon Street,COLLINGWOOD,VIC,3066,525.0,Apartment / Unit / Flat,1,1,0
+133/361 Kent Street,SYDNEY,NSW,2000,1100.0,Apartment / Unit / Flat,2,2,1
+111/4 Anzac Park,CAMPBELL,ACT,2612,660.0,Apartment / Unit / Flat,2,2,2
+20/43-57 Mallett Street,CAMPERDOWN,NSW,2050,580.0,Apartment / Unit / Flat,1,1,1
+301/209 Hunter Street,NEWCASTLE,NSW,2300,820.0,Apartment / Unit / Flat,2,2,1
+35 Macpherson Street,MOSMAN,NSW,2088,1100.0,House,4,2,2
+1/765 Old South Head Road,VAUCLUSE,NSW,2030,1000.0,Townhouse,2,1,1
+4/8 Wakefield Street,COORPAROO,QLD,4151,760.0,Apartment / Unit / Flat,3,2,2
+40/134-138 Redfern Street,REDFERN,NSW,2016,700.0,Apartment / Unit / Flat,1,1,0
+1104/33 Clarke Street,SOUTHBANK,VIC,3006,450.0,Apartment / Unit / Flat,1,1,0
+1052 Koonwarra Street,NORTH ALBURY,NSW,2640,350.0,House,3,1,1
+15 Liverpool Street,PADDINGTON,NSW,2021,1550.0,House,3,1,0
+46 Morrah Street,PARKVILLE,VIC,3052,1400.0,House,3,1,1
+4/1A Pedlar Street,SEATON,SA,5023,620.0,Townhouse,3,2,2
+21A Nicholson Avenue,THORNLEIGH,NSW,2120,1200.0,House,4,3,3
+210/34 Princeton Terrace,BUNDOORA,VIC,3083,1955.0,Apartment / Unit / Flat,2,1,1
+213/60 College Street,BELCONNEN,ACT,2617,480.0,Apartment / Unit / Flat,1,1,1
+1 Victoria Avenue,WOOLLAHRA,NSW,2025,2500.0,House,4,2,1
+2/107 Candlebark Road,QUEANBEYAN,NSW,2620,600.0,Townhouse,3,2,1
+36 Manburgh Terrace,DARRA,QLD,4076,795.0,House,5,2,2
+1/14 Denning Street,PETERSHAM,NSW,2049,650.0,Apartment / Unit / Flat,2,1,0
+10 Blackwell Court,MOUNT BARKER,SA,5251,650.0,House,4,2,1
+24/17 Chandler Street,BELCONNEN,ACT,2617,550.0,Apartment / Unit / Flat,2,1,1
+29 Illawong Crescent,TERRANORA,NSW,2486,1150.0,House,4,2,4
+2/53 Narong Road,CAULFIELD NORTH,VIC,3161,625.0,Apartment / Unit / Flat,2,1,1
+3/30-34 River Street,OAKS ESTATE,ACT,2620,360.0,Apartment / Unit / Flat,1,1,1
+31 Barritt Street,KAMBAH,ACT,2902,830.0,House,4,2,4
+1/35 Awoonga Crescent,MORAYFIELD,QLD,4506,450.0,House,3,2,1
+1/256 Military Road,NEUTRAL BAY,NSW,2089,675.0,Apartment / Unit / Flat,2,1,1
+87 Brightview Road,LOCKROSE,QLD,4342,650.0,House,3,2,6
+30/73-75 Wardell Road,DULWICH HILL,NSW,2203,550.0,Apartment / Unit / Flat,1,1,0
+5/22 Mowatt Street,QUEANBEYAN EAST,NSW,2620,330.0,House,1,1,1
+4 Sanderson Close,FLYNN,ACT,2615,630.0,House,3,1,2
+27 Helsal Point,SAFETY BEACH,VIC,3936,1900.0,House,4,4,2
+403/67 Galada Avenue,PARKVILLE,VIC,3052,580.0,Apartment / Unit / Flat,2,1,1
+1102/33 Clarke Street,SOUTHBANK,VIC,3006,450.0,Apartment / Unit / Flat,1,1,0
+321/31 Wellington Street,COLLINGWOOD,VIC,3066,680.0,Apartment / Unit / Flat,1,1,1
+69 London Street,EIGHT MILE PLAINS,QLD,4113,700.0,House,4,1,1
+1708/1 Marshall Avenue,ST LEONARDS,NSW,2065,780.0,Apartment / Unit / Flat,0,1,0
+2B Avenal Street,CRACE,ACT,2911,620.0,Townhouse,3,1,2
+8 Lolita Court,VARSITY LAKES,QLD,4227,900.0,House,3,2,2
+17 Rosenthal Street,CAMPBELL,ACT,2612,1035.0,House,4,1,2
+22 Orchard Street,BRIGHTON,VIC,3186,950.0,House,3,2,2
+6/4-6 Cheyne Street,PIMLICO,QLD,4812,305.0,Townhouse,2,1,1
+501/29 Shelley Street,SYDNEY,NSW,2000,1800.0,Apartment / Unit / Flat,3,2,0
+98/81 Constitution Avenue,CAMPBELL,ACT,2612,960.0,Apartment / Unit / Flat,3,2,2
+7/1 Thurralilly Street,QUEANBEYAN,NSW,2620,600.0,Townhouse,2,2,1
+11/124 Amy Street,REGENTS PARK,NSW,2143,800.0,Townhouse,3,2,2
+3/75 Cook Street,NORTH WARD,QLD,4810,490.0,Townhouse,2,1,1
+3/165 Gipps St,ABBOTSFORD,VIC,3067,550.0,Apartment / Unit / Flat,2,1,1
+29/26-30 Huxtable Avenue,LANE COVE,NSW,2066,600.0,Apartment / Unit / Flat,2,1,1
+19/815 Horsepark Drive,AMAROO,ACT,2914,550.0,Apartment / Unit / Flat,2,2,2
+323/253 Bridge Road,RICHMOND,VIC,3121,750.0,Apartment / Unit / Flat,2,2,1
+18/63-65 St Marks Road,RANDWICK,NSW,2031,925.0,Apartment / Unit / Flat,2,1,1
+5/9 Templeman Crescent,HILLSDALE,NSW,2036,775.0,Apartment / Unit / Flat,3,1,1
+1/109 Mount Street,COOGEE,NSW,2034,900.0,Apartment / Unit / Flat,2,1,0
+116/610 Mowbray Road,LANE COVE,NSW,2066,670.0,Apartment / Unit / Flat,1,1,1
+2 Moorhouse Street,O'CONNOR,ACT,2602,700.0,House,3,2,2
+58 Hartington Street,ELSTERNWICK,VIC,3185,1400.0,House,4,4,1
+504/11 Alberta Street,SYDNEY,NSW,2000,1200.0,Apartment / Unit / Flat,2,2,1
+81 Park Vista Dr,MANGO HILL,QLD,4509,720.0,House,4,2,2
+6/50 Tranmere Avenue,CARNEGIE,VIC,3163,410.0,Apartment / Unit / Flat,1,1,1
+6/62-64 Keeler Street,CARLINGFORD,NSW,2118,520.0,Apartment / Unit / Flat,1,1,1
+6 Dunbar Avenue,REGENTS PARK,NSW,2143,750.0,House,2,1,1
+301/1 Mouat Street,LYNEHAM,ACT,2602,560.0,Apartment / Unit / Flat,1,1,1
+2/11 Niland Cres,BLACKETT,NSW,2770,450.0,House,3,1,3
+311/347 Camberwell Road,CAMBERWELL,VIC,3124,600.0,Apartment / Unit / Flat,2,2,1
+1705/1 Sergeants Lane,ST LEONARDS,NSW,2065,700.0,Apartment / Unit / Flat,1,1,1
+33 Beechworth Road,PYMBLE,NSW,2073,1800.0,House,5,3,2
+6 Oolilpa Street,MOUNT LOUISA,QLD,4814,500.0,House,3,1,1
+61 Wildey Street,RACEVIEW,QLD,4305,700.0,House,4,2,2
+37/570 Sunnyholt Road,STANHOPE GARDENS,NSW,2768,700.0,House,4,2,2
+45 Cornelia Street,WILEY PARK,NSW,2195,450.0,Studio,1,1,0
+50a Stanley St (rear house),CHATSWOOD,NSW,2067,550.0,Apartment / Unit / Flat,1,1,0
+34 Kulgera Street,HAWKER,ACT,2614,1200.0,House,7,4,0
+37/29-31 Johnston Street,ANNANDALE,NSW,2038,490.0,Studio,0,1,1
+4/36 Wongara Street,CLAYFIELD,QLD,4011,550.0,Apartment / Unit / Flat,2,1,1
+310/56 Myrtle Street,IVANHOE,VIC,3079,600.0,Apartment / Unit / Flat,2,2,1
+205/35 Fauna Place,KIRRAWEE,NSW,2232,745.0,Apartment / Unit / Flat,2,2,1
+35 Belmore Street,NORTH PARRAMATTA,NSW,2151,650.0,House,2,1,0
+2 Dumble Street,SEVEN HILLS,NSW,2147,640.0,House,3,1,1
+2/22 Torrens Street,LINDEN PARK,SA,5065,600.0,House,2,1,1
+201/3 Melton Terrace,NORTH WARD,QLD,4810,650.0,Apartment / Unit / Flat,3,2,2
+93 Minter Street,CANTERBURY,NSW,2193,1150.0,House,3,2,1
+19 Riverside Circuit,BELLMERE,QLD,4510,750.0,House,4,2,2
+1/35 Awoonga Crescent,MORAYFIELD,QLD,4506,450.0,House,3,2,1
+3/5 Bay View Street,LAVENDER BAY,NSW,2060,700.0,Apartment / Unit / Flat,2,1,0
+16/19 Aspinall Street,WATSON,ACT,2602,670.0,Townhouse,3,2,1
+63/126 Thynne Street,BRUCE,ACT,2617,450.0,Apartment / Unit / Flat,1,1,1
+204/35 Fauna Place,KIRRAWEE,NSW,2232,745.0,Apartment / Unit / Flat,2,2,1
+504/88 Cambridge Street,COLLINGWOOD,VIC,3066,590.0,Apartment / Unit / Flat,1,1,1
+604A/125 Bell Street,IVANHOE,VIC,3079,650.0,Apartment / Unit / Flat,2,2,1
+9 Algernon Street,OATLEY,NSW,2223,2300.0,Duplex,5,6,2
+92/27 Griffith Street,NEW FARM,QLD,4005,950.0,Apartment / Unit / Flat,2,2,1
+5 Forrest Crescent,REDBANK PLAINS,QLD,4301,440.0,House,3,1,1
+29 Pepper Tree Drive,HOLMVIEW,QLD,4207,750.0,House,4,3,2
+102/100 Glover Street,MOSMAN,NSW,2088,800.0,Apartment / Unit / Flat,1,1,1
+4 Onyx Court,CARRARA,QLD,4211,920.0,House,3,1,2
+8/6 Swan Avenue,KLEMZIG,SA,5087,550.0,House,2,1,2
+R2/72 Palm Forest Circuit,FOREST GLEN,QLD,4556,350.0,House,1,1,1
+47/321 Angus Smith Drive,DOUGLAS,QLD,4354,500.0,House,2,1,1
+11/1 Bede Street,STRATHFIELD SOUTH,NSW,2136,850.0,Apartment / Unit / Flat,3,2,1
+80a Homebush Road,STRATHFIELD,NSW,2135,950.0,House,3,2,2
+20A Womerah Avenue,DARLINGHURST,NSW,2010,950.0,House,2,1,0
+119 Hotham Street,COLLINGWOOD,VIC,3066,1600.0,House,3,2,0
+507/40 King Street,WAVERTON,NSW,2060,585.0,Apartment / Unit / Flat,1,1,1
+1/30 Croydon Street,PETERSHAM,NSW,2049,1200.0,Townhouse,3,2,2
+6/79 Field Street,CLIFTON HILL,VIC,3068,900.0,Townhouse,3,2,1
+68 Adelaide Street,WOOLLAHRA,NSW,2025,1400.0,Terrace,3,2,0
+206/79 Mitchell Street,BENTLEIGH,VIC,3204,650.0,Apartment / Unit / Flat,2,2,1
+608/31 Wellington Street,COLLINGWOOD,VIC,3066,950.0,Apartment / Unit / Flat,2,2,1
+5/10 Broughton Road,ARTARMON,NSW,2064,760.0,Apartment / Unit / Flat,2,1,1
+G10/431 Bourke Street,SURRY HILLS,NSW,2010,900.0,Apartment / Unit / Flat,1,1,1
+7/58 Arthur Street,RANDWICK,NSW,2031,900.0,Apartment / Unit / Flat,2,2,1
+2/4 Morrice Street,LANE COVE,NSW,2066,740.0,Apartment / Unit / Flat,2,1,0
+22 Meadowview Mews,CANNING VALE,WA,6155,820.0,House,4,2,1
+3/4 Morrice Street,LANE COVE,NSW,2066,580.0,Apartment / Unit / Flat,1,1,0
+15/7 St Neot Avenue,POTTS POINT,NSW,2011,480.0,Studio,1,1,0
+14 Myuna Road,DOVER HEIGHTS,NSW,2030,3250.0,House,4,3,3
+201/1555 Malvern Road,GLEN IRIS,VIC,3146,600.0,Apartment / Unit / Flat,2,1,1
+354 Kingston Road,SLACKS CREEK,QLD,4127,615.0,House,3,2,2
+3/15-17 Anzac Parade,KENSINGTON,NSW,2033,900.0,Apartment / Unit / Flat,2,1,1
+154 Caves Beach Road,CAVES BEACH,NSW,2281,1200.0,House,4,2,2
+65/156 Chalmers Street,SURRY HILLS,NSW,2010,950.0,Apartment / Unit / Flat,2,1,1
+249/298 Sussex Street,SYDNEY,NSW,2000,700.0,Apartment / Unit / Flat,1,1,0
+8 Civic Avenue,CAVES BEACH,NSW,2281,750.0,House,3,1,2
+1105/421 Docklands Drive,DOCKLANDS,VIC,3008,550.0,Apartment / Unit / Flat,1,1,0
+22 Gardeners Road,KINGSFORD,NSW,2032,825.0,Apartment / Unit / Flat,1,1,1
+73/6-14 Oxford Street,DARLINGHURST,NSW,2010,900.0,Apartment / Unit / Flat,2,1,1
+10 Tongarra Street,SOUTHPORT,QLD,4215,875.0,House,4,2,1
+96 Palm Forest Circuit,FOREST GLEN,QLD,4556,815.0,House,4,2,2
+5/449 Waterworks Road,ASHGROVE,QLD,4060,350.0,Apartment / Unit / Flat,2,1,0
+22 Ellis Road,GLEN IRIS,VIC,3146,2650.0,House,4,3,2
+4/55 Palace Street,ASHFIELD,NSW,2131,700.0,Apartment / Unit / Flat,2,1,1
+58 Lay Street,UPPER MOUNT GRAVATT,QLD,4122,850.0,House,3,1,2
+3/16 Manor Street Street,BRIGHTON,VIC,3186,850.0,Apartment / Unit / Flat,2,1,1
+501/166-176 Terminus Street,LIVERPOOL,NSW,2170,550.0,Apartment / Unit / Flat,2,2,1
+32 Longford Street,LYONS,ACT,2606,650.0,House,3,1,2
+233 Hector Street,SEFTON,NSW,2162,985.0,House,3,2,4
+703/4 Broughton Road,ARTARMON,NSW,2064,745.0,Apartment / Unit / Flat,2,1,1
+10 Atherton Court,HELENSVALE,QLD,4212,990.0,House,3,2,2
+28B Aberdeen Road,PRAHRAN,VIC,3181,830.0,Townhouse,2,1,2
+5/5 Dickens Street,ELWOOD,VIC,3184,485.0,Apartment / Unit / Flat,1,1,1
+193 Sutherland Street,PADDINGTON,NSW,2021,1095.0,Terrace,2,2,0
+40 Montana Street,GLEN IRIS,VIC,3146,850.0,House,3,2,2
+40 Leckie St,BENTLEIGH,VIC,3204,1.0,House,4,3,3
+18/247 Williams Road,SOUTH YARRA,VIC,3141,550.0,Apartment / Unit / Flat,1,1,1
+13 Davey Avenue,BRIGHTON EAST,VIC,3187,1495.0,House,5,3,1
+132/1 Queensberry Street,CARLTON,VIC,3053,910.0,Apartment / Unit / Flat,2,2,1
+7/26 Toorak Road West,SOUTH YARRA,VIC,3141,500.0,Apartment / Unit / Flat,1,1,1
+84 Holden Street,FITZROY NORTH,VIC,3068,850.0,House,2,1,1
+113/44 Barkly Street,ST KILDA,VIC,3182,350.0,Studio,0,1,1
+31/Yates Avenue,ASHGROVE,QLD,4060,1800.0,House,6,4,3
+9 Yalga Close,PALMERSTON,ACT,2913,650.0,House,3,1,2
+1/8 Penicola Place,NEWNHAM,TAS,7248,475.0,Apartment / Unit / Flat,2,1,1
+1432/1 Studio Drive,EASTGARDENS,NSW,2036,1090.0,Apartment / Unit / Flat,2,2,1
+12a Vincent Street,BALMAIN EAST,NSW,2041,1400.0,House,3,2,0
+76/71 Victoria Street,POTTS POINT,NSW,2011,985.0,Apartment / Unit / Flat,2,1,1
+716 Malvern Road,PRAHRAN,VIC,3181,750.0,House,2,1,1
+4/16 Manor Street,BRIGHTON,VIC,3186,950.0,Apartment / Unit / Flat,3,1,1
+87A Mawson Parade,CHIFLEY,NSW,2036,1550.0,Semi-detached,3,2,3
+15 Watkins Street,BONDI,NSW,2026,1800.0,House,3,2,2
+1/1 Griffin Street,MANLY,NSW,2095,1450.0,Apartment / Unit / Flat,3,2,2
+608D/168 Whitehorse Road,BLACKBURN,VIC,3130,500.0,Apartment / Unit / Flat,1,1,1
+1/34 Coral Street,SAUNDERS BEACH,QLD,4818,325.0,Apartment / Unit / Flat,3,1,1
+14/78 Mascot Drive,EASTLAKES,NSW,2018,630.0,Apartment / Unit / Flat,2,1,1
+21 Clare Place,THE GAP,QLD,4061,1800.0,House,5,3,2
+127 Sanctum Boulevard,MOUNT LOW,QLD,4818,620.0,House,4,2,2
+1/132 Totterdell Street,BELCONNEN,ACT,2617,625.0,Townhouse,3,2,2
+119 Erskine Loop,GOOGONG,NSW,2620,850.0,House,4,2,2
+24 Dorman Crescent,LINDFIELD,NSW,2070,1150.0,House,5,3,2
+2b/17-19 Waverley Street,BONDI JUNCTION,NSW,2022,1695.0,Apartment / Unit / Flat,3,2,1
+607/15 Jack Brabham Drive,HURSTVILLE,NSW,2220,660.0,Apartment / Unit / Flat,1,1,1
+5/3 Seisman Place,PORT MELBOURNE,VIC,3207,550.0,Apartment / Unit / Flat,1,1,1
+1 Crimea St,PARRAMATTA,NSW,2150,720.0,House,3,1,2
+4/19 Leichhardt Street,KINGSTON,ACT,2604,750.0,Apartment / Unit / Flat,2,2,2
+40 Regatta Avenue,OXENFORD,QLD,4210,1050.0,House,4,2,2
+7/486 Pacific Highway,ST LEONARDS,NSW,2065,725.0,Apartment / Unit / Flat,1,1,0
+16/20 Eyre Street,KINGSTON,ACT,2604,750.0,Apartment / Unit / Flat,2,2,2
+26 O'Connell Street,NEWTOWN,NSW,2042,900.0,Terrace,3,1,0
+5/18 Eastbourne Road,HOMEBUSH WEST,NSW,2140,670.0,Apartment / Unit / Flat,2,1,1
+1/10 Sapphire Cres,REDBANK PLAINS,QLD,4301,380.0,Duplex,1,1,1
+702/20 Pelican Street,SURRY HILLS,NSW,2010,1150.0,Apartment / Unit / Flat,2,1,1
+1 Camira Avenue,CRANBROOK,QLD,4814,450.0,House,3,1,1
+5/43-51 Giles Street,KINGSTON,ACT,2604,580.0,Apartment / Unit / Flat,2,1,1
+3/17 Small Street,HAMPTON,VIC,3188,750.0,Apartment / Unit / Flat,2,1,0
+2/8 Bunangib Ct,FRANKSTON SOUTH,VIC,3199,625.0,Apartment / Unit / Flat,3,1,2
+4/5 Westbrook Street,KEW EAST,VIC,3102,510.0,Apartment / Unit / Flat,2,1,1
+4/262 Maroubra Road,MAROUBRA,NSW,2035,750.0,Apartment / Unit / Flat,2,1,1
+310/81 Macleay Street,POTTS POINT,NSW,2011,900.0,Apartment / Unit / Flat,1,1,1
+28 Warrimoo Avenue,ST IVES,NSW,2075,1350.0,House,4,2,2
+5/58 Leichhardt Street,KINGSTON,ACT,2604,1100.0,Apartment / Unit / Flat,3,3,2
+G14/55 Currong Street,BRADDON,ACT,2612,550.0,Apartment / Unit / Flat,1,1,1
+10 Stradbroke Avenue,BRIGHTON EAST,VIC,3187,780.0,House,3,2,2
+404/71 Constitution Avenue,CAMPBELL,ACT,2612,560.0,Apartment / Unit / Flat,1,1,1
+11 Skylark Place,KELSO,QLD,4815,540.0,House,4,2,2
+3/5 St George Road,ELSTERNWICK,VIC,3185,675.0,Apartment / Unit / Flat,3,1,2
+2/11 Wando Grove,ST KILDA EAST,VIC,3183,575.0,Apartment / Unit / Flat,2,1,1
+28/112 McMichael Terrace,DENMAN PROSPECT,ACT,2611,650.0,Apartment / Unit / Flat,2,2,2
+408/16-20 Smallwood Avenue,HOMEBUSH,NSW,2140,900.0,Apartment / Unit / Flat,3,2,2
+13/1 Raleigh Street,GOLDEN BEACH,QLD,4551,1075.0,House,3,2,1
+121 Anniversary Avenue,WYNDHAM VALE,VIC,3024,500.0,Townhouse,4,2,1
+15 Lex Banning Street,WRIGHT,ACT,2611,1200.0,House,5,3,2
+65 Karril Turn,YANCHEP,WA,6035,675.0,House,4,2,2
+G13/828 Burke Road,CAMBERWELL,VIC,3124,675.0,Apartment / Unit / Flat,2,2,1
+12 Pavuvu Street,MANSFIELD,QLD,4122,720.0,House,3,2,2
+14 Broadchapel Place,CLARINDA,VIC,3169,650.0,House,3,2,2
+12 Petit Court,SINNAMON PARK,QLD,4073,780.0,House,4,2,2
+4102/6 Alexandra Drive,CAMPERDOWN,NSW,2050,750.0,Apartment / Unit / Flat,1,1,1
+1106/2-14 Albert Road,MELBOURNE,VIC,3000,700.0,Apartment / Unit / Flat,1,1,1
+2013/2 Grazier Lane,BELCONNEN,ACT,2617,630.0,Apartment / Unit / Flat,2,2,1
+6/75 Elizabeth Bay Road,ELIZABETH BAY,NSW,2011,850.0,Apartment / Unit / Flat,2,1,0
+36 Yarrambat Rise,UPPER COOMERA,QLD,4209,880.0,House,4,2,2
+14 Rocky Cape Street,SPRINGFIELD LAKES,QLD,4300,530.0,House,3,2,2
+62B Latham Street,BENTLEIGH EAST,VIC,3165,835.0,Townhouse,3,2,2
+13/334 Princes Street,PORT MELBOURNE,VIC,3207,400.0,Apartment / Unit / Flat,1,1,1
+104/106-112 Queensberry Street,CARLTON,VIC,3053,550.0,Apartment / Unit / Flat,2,1,0
+109/318 Little Bourke Street,MELBOURNE,VIC,3000,545.0,Apartment / Unit / Flat,1,1,0
+18 Anderson Street,MALVERN EAST,VIC,3145,850.0,House,3,1,2
+54 Formosa Street,DRUMMOYNE,NSW,2047,850.0,Apartment / Unit / Flat,2,2,1
+5/1761 Dandenong Road,OAKLEIGH EAST,VIC,3166,480.0,Apartment / Unit / Flat,2,1,1
+34 Table Street,PORT MACQUARIE,NSW,2444,690.0,House,3,1,1
+7/5 Kingsway Place,TOWNSVILLE CITY,QLD,4810,450.0,Apartment / Unit / Flat,1,1,1
+23 Australia II Drive,KENSINGTON GROVE,QLD,4341,800.0,House,4,2,3
+15/5 Garland Road,NAREMBURN,NSW,2065,850.0,Apartment / Unit / Flat,2,2,1
+14B/100 Elizabeth Bay Road,ELIZABETH BAY,NSW,2011,650.0,Studio,0,1,0
+301/72-78 Bayswater Road,RUSHCUTTERS BAY,NSW,2011,1100.0,Apartment / Unit / Flat,2,1,1
+3/9 Caldwell Street,MEREWETHER,NSW,2291,650.0,House,2,1,1
+11 Gulgong Pl,FISHER,ACT,2611,840.0,House,4,2,2
+2 Petty Avenue,YAGOONA,NSW,2199,400.0,Apartment / Unit / Flat,0,1,0
+7 Foremost Court,NORTH HAVEN,SA,5018,685.0,House,4,2,2
+411/4 Foreshore Boulevard,WOOLOOWARE,NSW,2230,900.0,Apartment / Unit / Flat,2,2,1
+11 Craven Drive,MOUNT BARKER,SA,5251,680.0,House,4,2,2
+346 Shellharbour Road,BARRACK HEIGHTS,NSW,2528,630.0,House,3,1,1
+8/47 Hampton Circuit,YARRALUMLA,ACT,2600,450.0,Apartment / Unit / Flat,2,1,1
+364 Cleveland St,SURRY HILLS,NSW,2010,1700.0,House,3,3,1
+90 Anne Street,GEORGE TOWN,TAS,7253,400.0,House,3,1,4
+7a/20-22 Onslow Avenue,ELIZABETH BAY,NSW,2011,950.0,Apartment / Unit / Flat,2,1,1
+63 Sheffield Street,MALVERN,SA,5061,680.0,House,3,1,2
+10/38 Sharps Road,LENAH VALLEY,TAS,7008,300.0,Apartment / Unit / Flat,1,1,1
+29/42-48 Waverley Street,BONDI JUNCTION,NSW,2022,925.0,Apartment / Unit / Flat,1,1,1
+211/1 Avenue of Europe,NEWINGTON,NSW,2127,600.0,Apartment / Unit / Flat,1,1,1
+16 O'Grady Street,CARLTON NORTH,VIC,3054,795.0,House,2,1,0
+53A Bruce Avenue,BELFIELD,NSW,2191,650.0,Villa,3,1,0
+2/7 Hughenden Road,ST KILDA EAST,VIC,3183,1250.0,Townhouse,3,2,2
+16 Hazel Hawke Ave,WHITLAM,ACT,2611,600.0,House,2,2,2
+11/17 Woodcourt Street,MARRICKVILLE,NSW,2204,550.0,Apartment / Unit / Flat,2,1,1
+132 Stuart Street,MOUNT LOFTY,QLD,4350,600.0,House,3,1,1
+31 Moresby Avenue,SPRINGFIELD,QLD,4300,910.0,House,4,2,2
+116/4 Sandbanks Avenue,NORTH KELLYVILLE,NSW,2155,670.0,Apartment / Unit / Flat,2,2,1
+301/2 Sandbanks Avenue,NORTH KELLYVILLE,NSW,2155,640.0,Apartment / Unit / Flat,2,2,1
+G20/51 Indwarra Avenue,NORTH KELLYVILLE,NSW,2155,550.0,Apartment / Unit / Flat,1,1,1
+301/2a Elsie St,BURWOOD,NSW,2134,720.0,Apartment / Unit / Flat,1,1,1
+1304/15 George Street,BURWOOD,NSW,2134,880.0,Apartment / Unit / Flat,1,1,1
+45 Sydney Street,RIVERSTONE,NSW,2765,650.0,House,3,2,2
+14 West Street,PADDINGTON,NSW,2021,1370.0,House,3,1,0
+36/1 Beach Road,BONDI BEACH,NSW,2026,780.0,Apartment / Unit / Flat,1,1,0
+Studio/481 King Street,NEWTOWN,NSW,2042,400.0,Apartment / Unit / Flat,1,1,0
+6/251A Botany Street,KINGSFORD,NSW,2032,825.0,Apartment / Unit / Flat,2,1,1
+105/232-242 Rouse Street,PORT MELBOURNE,VIC,3207,560.0,Apartment / Unit / Flat,1,1,1
+5/102 Brighton Road,RIPPONLEA,VIC,3185,635.0,Apartment / Unit / Flat,2,1,1
+202/63 Acland Street,ST KILDA,VIC,3182,460.0,Apartment / Unit / Flat,1,1,1
+414/99 Nott Street,PORT MELBOURNE,VIC,3207,660.0,Apartment / Unit / Flat,2,1,2
+5/46-48 East Street,FIVE DOCK,NSW,2046,795.0,Apartment / Unit / Flat,2,2,1
+21 Margaret Street,KARABAR,NSW,2620,590.0,House,3,1,3
+5/92 Bay Road,WAVERTON,NSW,2060,1450.0,Townhouse,3,2,2
+47/188 South Parade,AUBURN,NSW,2144,495.0,Apartment / Unit / Flat,1,1,1
+22/14 Hoolihan Street,DENMAN PROSPECT,ACT,2611,480.0,Apartment / Unit / Flat,1,1,1
+4/34 Bowns Road,KOGARAH,NSW,2217,650.0,Apartment / Unit / Flat,2,1,1
+3/45 Wallis Parade,NORTH BONDI,NSW,2026,1400.0,Apartment / Unit / Flat,2,2,1
+2810/438 Victoria Avenue,CHATSWOOD,NSW,2067,850.0,Apartment / Unit / Flat,1,1,1
+201/30 Alfred Street,MILSONS POINT,NSW,2061,1250.0,Apartment / Unit / Flat,2,2,1
+18/43 Ijong Street,BRADDON,ACT,2612,680.0,Apartment / Unit / Flat,2,1,1
+17 Bauhinia Street,CRANBROOK,QLD,4814,490.0,House,4,1,2
+669 King Street,ST PETERS,NSW,2044,1200.0,House,4,1,1
+36 Anaheim Ave,HUNTLY,VIC,3551,550.0,House,4,2,2
+4 Alexandra Dr,CAMPERDOWN,NSW,2050,2.0,Apartment / Unit / Flat,1,1,0
+669A King Street,ST PETERS,NSW,2044,950.0,House,3,1,0
+16 Spring Street,BIRCHGROVE,NSW,2041,1350.0,House,2,2,0
+43 Duyvestyn Terrace,MURRUMBA DOWNS,QLD,4503,850.0,House,5,2,2
+9 Kambalda Crescent,FISHER,ACT,2611,575.0,House,3,1,1
+303/5 City View Road,PENNANT HILLS,NSW,2120,540.0,Apartment / Unit / Flat,1,1,1
+29 Braemore St,SEVILLE GROVE,WA,6112,595.0,House,3,1,2
+805/5 Glenarm Road,GLEN IRIS,VIC,3146,770.0,Apartment / Unit / Flat,2,2,1
+1/5 Grove Crescent,BEACHMERE,QLD,4510,490.0,Duplex,3,1,1
+13 Brunner Drive,PARK RIDGE,QLD,4125,620.0,House,3,2,2
+373 Soldiers Point Road,SALAMANDER BAY,NSW,2317,690.0,House,3,2,1
+204/55 Villiers Street,NORTH MELBOURNE,VIC,3051,395.0,Apartment / Unit / Flat,1,1,0
+93 Aspen Circuit,LOGAN RESERVE,QLD,4133,650.0,House,4,2,2
+13/364 Moore Park Road,PADDINGTON,NSW,2021,550.0,Apartment / Unit / Flat,1,1,0
+2/307 Boronia Road,BORONIA,VIC,3155,650.0,House,3,2,2
+4/720 Brunswick Street,NEW FARM,QLD,4005,850.0,Apartment / Unit / Flat,2,2,1
+1305/1 Grazier Lane,BELCONNEN,ACT,2617,495.0,Apartment / Unit / Flat,1,1,1
+11 Bulla Place,KELSO,QLD,4815,550.0,House,4,2,4
+521/140 Maroubra Road,MAROUBRA,NSW,2035,950.0,Apartment / Unit / Flat,2,2,1
+5/403 Glebe Point Road,GLEBE,NSW,2037,1200.0,Apartment / Unit / Flat,2,1,0
+3/64 Glorious Promenade,REDBANK PLAINS,QLD,4301,490.0,House,3,1,1
+16 Dusk Street,KENMORE,QLD,4069,1250.0,House,5,2,2
+15/33 Maida Street,LILYFIELD,NSW,2040,490.0,Apartment / Unit / Flat,1,1,1
+Unit 23/16-18 Harrison St,CREMORNE,NSW,2090,1200.0,Apartment / Unit / Flat,2,1,1
+37 Theodore Street,BALMAIN,NSW,2041,1200.0,House,2,1,1
+1a Plymouth Avenue,DEVON PARK,SA,5008,660.0,House,3,2,1
+33 Halcyon Avenue,KELLYVILLE,NSW,2155,1050.0,House,5,2,2
+5 Caddy Lane,ROSSLEA,QLD,4812,660.0,House,3,2,2
+2/1067 LAKEVIEW TERRACE,BENOWA,QLD,4217,1300.0,Duplex,4,4,2
+76 McClune Street,LOGAN RESERVE,QLD,4133,690.0,House,4,2,2
+8 Glen Street,MILSONS POINT,NSW,2061,2400.0,Apartment / Unit / Flat,3,2,2
+20/24 Barry Street,NEUTRAL BAY,NSW,2089,600.0,Apartment / Unit / Flat,1,1,1
+2 Taroona Avenue,BERKELEY VALE,NSW,2261,650.0,House,3,1,1
+20/156 Hampden Road,ABBOTSFORD,NSW,2046,800.0,Apartment / Unit / Flat,2,1,2
+58/17 Captain Cook Crescent,GRIFFITH,ACT,2603,750.0,Apartment / Unit / Flat,2,2,2
+11/17 Billabong Street,LAWSON,ACT,2617,800.0,Townhouse,4,3,2
+23 Crescent Street,ROZELLE,NSW,2039,830.0,House,2,1,0
+3 Mary Street,NEWTOWN,NSW,2042,830.0,Terrace,2,1,0
+27/1 Batty Street,BALMAIN,NSW,2041,920.0,Apartment / Unit / Flat,2,2,2
+501/10 Bishopsgate Street,WICKHAM,NSW,2293,740.0,Apartment / Unit / Flat,2,2,1
+55/73 Redhead Street,DOOLANDELLA,QLD,4077,650.0,House,4,2,3
+72 Dysart Drive,HOLMVIEW,QLD,4207,650.0,House,4,2,0
+15A Barker Road,STRATHFIELD,NSW,2135,650.0,Villa,2,1,1
+52 Keverstone Circuit,ISABELLA PLAINS,ACT,2905,620.0,House,3,1,4
+80 Highview Avenue,GREENACRE,NSW,2190,650.0,Semi-detached,2,1,1
+26/96 Wallis Street,WOOLLAHRA,NSW,2025,850.0,Apartment / Unit / Flat,2,1,1
+14/817 Anzac Parade,MAROUBRA,NSW,2035,750.0,Apartment / Unit / Flat,2,1,1
+2 Sands Place,HOLT,ACT,2615,580.0,House,4,1,2
+1005/8 Park Lane,CHIPPENDALE,NSW,2008,900.0,Apartment / Unit / Flat,2,1,0
+16B Keswick Street,BENTLEIGH EAST,VIC,3165,1150.0,Townhouse,4,4,2
+29 Hamilton Street,BAYSWATER,WA,6053,680.0,House,3,1,1
+72 Pavilion Drive,PEREGIAN SPRINGS,QLD,4573,800.0,Townhouse,3,2,1
+11A Rose Street,PUNCHBOWL,NSW,2196,870.0,House,2,2,3
+35 Mobourne Street,BONNER,ACT,2914,650.0,House,3,2,2
+801/9 William Street,NORTH SYDNEY,NSW,2060,580.0,Studio,0,1,1
+45 Octavia Street,ST KILDA,VIC,3182,1200.0,House,3,2,1
+2/1235 Hoddle Street,EAST MELBOURNE,VIC,3002,765.0,Apartment / Unit / Flat,3,1,1
+26/82 Myrtle St,CHIPPENDALE,NSW,2008,670.0,Apartment / Unit / Flat,1,1,0
+13/15 Kooloora Avenue,FRESHWATER,NSW,2096,750.0,Apartment / Unit / Flat,2,1,1
+82a Pile Street,MARRICKVILLE,NSW,2204,650.0,Apartment / Unit / Flat,1,1,0
+2667 The Address,HOPE ISLAND,QLD,4212,1300.0,House,3,2,2
+16/20 Macleay Street,POTTS POINT,NSW,2011,750.0,Apartment / Unit / Flat,2,1,0
+10 Eastmore Place,MAROUBRA,NSW,2035,1350.0,House,3,2,2
+34 Edinburgh Crescent,GLENEAGLE,QLD,4285,650.0,House,4,2,2
+17 Metcalfe Street,NICHOLLS,ACT,2913,1100.0,House,4,2,2
+1/24 Browne Street,NEW FARM,QLD,4005,520.0,Apartment / Unit / Flat,1,1,0
+194 Tennyson Street,ELWOOD,VIC,3184,880.0,House,3,2,0
+51 Downshire Road,ELSTERNWICK,VIC,3185,930.0,House,3,1,2
+74 Watson Street,BONDI,NSW,2026,4500.0,House,6,3,2
+27 Summergold Street,MOUNT LOW,QLD,4818,570.0,House,4,2,2
+14 Short Street,BALMAIN,NSW,2041,930.0,House,2,1,0
+3503/228 La Trobe Street,MELBOURNE,VIC,3000,820.0,Apartment / Unit / Flat,2,1,0
+20 Birdwing Court,DOUGLAS,QLD,4814,500.0,House,3,1,1
+44 Watford Crescent,MOLENDINAR,QLD,4214,1400.0,House,5,3,5
+84/5 Hely Street,GRIFFITH,ACT,2603,560.0,Apartment / Unit / Flat,2,1,1
+107 Hopetoun Avenue,VAUCLUSE,NSW,2030,3950.0,House,4,4,2
+71 Onslow St,ROSE BAY,NSW,2029,3000.0,House,3,2,2
+116/9 Atchison Street,ST LEONARDS,NSW,2065,950.0,Apartment / Unit / Flat,2,2,0
+1/156 Hotham Street,ST KILDA EAST,VIC,3183,575.0,Apartment / Unit / Flat,2,1,1
+24A Kay St,CARLINGFORD,NSW,2118,1100.0,Duplex,4,2,2
+62/21 Shute Harbour Road,CANNONVALE,QLD,4802,600.0,Townhouse,2,2,1
+Unit 5/228 Rainbow St,COOGEE,NSW,2034,870.0,Apartment / Unit / Flat,2,2,1
+4/6 Musgrave Street,WEST END,QLD,4810,300.0,Apartment / Unit / Flat,2,1,1
+106/4 Anzac Park,CAMPBELL,ACT,2612,630.0,Apartment / Unit / Flat,1,1,1
+3/25 Grosvenor Street,BRIGHTON,VIC,3186,1250.0,Townhouse,3,2,2
+6/70 Madigan Street,HACKETT,ACT,2602,560.0,Townhouse,2,1,1
+86/170 Flemington Road,HARRISON,ACT,2914,450.0,House,1,1,1
+41/58 Cowlishaw Street,GREENWAY,ACT,2900,460.0,Apartment / Unit / Flat,1,1,1
+20/28 Canberra Avenue,FORREST,ACT,2603,850.0,Apartment / Unit / Flat,2,2,2
+4 Lilly Pilly Crescent,FITZGIBBON,QLD,4018,950.0,House,5,2,1
+10/37 Hugh Street,WEST END,QLD,4810,495.0,House,2,1,1
+348 Lyons Road,RUSSELL LEA,NSW,2046,1050.0,House,4,1,2
+305/7 Church Street,DRUMMOYNE,NSW,2047,680.0,Apartment / Unit / Flat,1,1,1
+48 Duffy Avenue,THORNLEIGH,NSW,2120,1000.0,House,5,3,2
+2/16 Rickard Street,BALGOWLAH,NSW,2093,1300.0,Townhouse,3,2,2
+133 Bowden Street,MEADOWBANK,NSW,2114,1080.0,Apartment / Unit / Flat,3,2,2
+11/3 Grantham Street,POTTS POINT,NSW,2011,550.0,Studio,0,1,0
+18/20 Illawong Avenue,TAMARAMA,NSW,2026,1450.0,Apartment / Unit / Flat,2,1,1
+510/33 MacKenzie Street,MELBOURNE,VIC,3000,600.0,Apartment / Unit / Flat,2,1,1
+304/56 Spit Road,MOSMAN,NSW,2088,700.0,Apartment / Unit / Flat,1,1,1
+1 Monkman Street,CHAPMAN,ACT,2611,710.0,House,4,2,2
+1712/1 Kings Cross Road,DARLINGHURST,NSW,2010,900.0,Apartment / Unit / Flat,1,1,1
+3/21 Newcastle Street,ROSE BAY,NSW,2029,895.0,Apartment / Unit / Flat,3,1,1
+11 Anzio Road,PIARA WATERS,WA,6112,730.0,House,3,2,2
+7/27 Station Rd,AUBURN,NSW,2144,590.0,Apartment / Unit / Flat,2,1,1
+1915/120 Eastern Valley Way,BELCONNEN,ACT,2617,525.0,Apartment / Unit / Flat,1,1,1
+17/1 King Street,NEWCASTLE,NSW,2300,1500.0,Apartment / Unit / Flat,3,2,2
+20a Prince Street,PICNIC POINT,NSW,2213,550.0,House,2,1,0
+21 Griffiths Street,CHARLESTOWN,NSW,2290,595.0,House,2,1,2
+7/505-507 Bunnerong Road,MATRAVILLE,NSW,2036,680.0,Apartment / Unit / Flat,1,1,1
+6/1 Leichhardt Street,LEICHHARDT,NSW,2040,360.0,Studio,0,1,0
+7/5 Astoria Circuit,MAROUBRA,NSW,2035,525.0,Studio,0,1,0
+1 Druitt Place,MACQUARIE,ACT,2614,800.0,House,3,2,2
+1c Laurel Avenue,CAMPBELLTOWN,SA,5074,775.0,House,4,2,3
+57 Browns Road,BONEO,VIC,3939,1900.0,House,4,3,2
+9 Cartier Circuit,BURDELL,QLD,4818,460.0,House,4,2,2
+77 Annabelle View,COOMBS,ACT,2611,1050.0,House,4,2,2
+3/67 George Street,REDFERN,NSW,2016,315.0,Studio,1,2,0
+80 Parraween Street,CREMORNE,NSW,2090,850.0,House,2,1,1
+121 Harris St,PYRMONT,NSW,2009,1050.0,Apartment / Unit / Flat,1,2,0
+54 East Terrace,GAWLER EAST,SA,5118,570.0,House,4,2,4
+8 Carcoare Terrace,WATSON,ACT,2602,735.0,Townhouse,3,2,2
+607/104-112 Maroubra Road,MAROUBRA,NSW,2035,850.0,Apartment / Unit / Flat,2,2,1
+110/544-550 Mowbray Road,LANE COVE,NSW,2066,750.0,Apartment / Unit / Flat,2,2,1
+58 John Street,PYRMONT,NSW,2009,1900.0,House,4,2,0
+2 Sarre St,GUNGAHLIN,ACT,2912,760.0,House,4,2,2
+3/92-96 Todman Avenue,KENSINGTON,NSW,2033,1125.0,Apartment / Unit / Flat,3,2,1
+88 Framara Drive,KELSO,QLD,4815,500.0,House,3,1,2
+109 Widgiewa Road,CARWOOLA,NSW,2620,900.0,House,4,2,7
+10 Catalina Place,BADAGARANG,NSW,2540,750.0,House,4,2,2
+18 Raffles Walk,WERRIBEE,VIC,3030,450.0,House,3,2,2
+B501/521 Harris Street,ULTIMO,NSW,2007,1450.0,Apartment / Unit / Flat,3,2,0
+2/47 Bond Street,MAROUBRA,NSW,2035,1100.0,Apartment / Unit / Flat,2,1,1
+4/94-96 Collett Street,QUEANBEYAN,NSW,2620,525.0,Apartment / Unit / Flat,2,1,1
+3/45 Rochester Street,BOTANY,NSW,2019,675.0,Apartment / Unit / Flat,2,1,2
+807/32 Civic Way,ROUSE HILL,NSW,2155,590.0,Apartment / Unit / Flat,1,1,1
+6/5-9 Fulton Street,ST KILDA EAST,VIC,3183,485.0,Apartment / Unit / Flat,1,1,1
+402/228 Elizabeth Street,SURRY HILLS,NSW,2010,870.0,Apartment / Unit / Flat,1,1,0
+5/40 Sycamore Grove,BALACLAVA,VIC,3183,450.0,Apartment / Unit / Flat,1,1,1
+99A Sunshine Parade,MIAMI,QLD,4220,650.0,Duplex,2,1,1
+72 David Fleay Street,WRIGHT,ACT,2611,1100.0,House,4,2,2
+4 York Place,ROZELLE,NSW,2039,995.0,Terrace,2,1,0
+5/33 William Street,MERMAID BEACH,QLD,4218,750.0,Apartment / Unit / Flat,2,1,1
+1102/18 Yarra Street,SOUTH YARRA,VIC,3141,525.0,Apartment / Unit / Flat,1,1,0
+12/44 Murphy Street,SOUTH YARRA,VIC,3141,560.0,Apartment / Unit / Flat,1,1,1
+52 Augusta Street,STRATHFIELD,NSW,2135,1250.0,House,4,2,2
+10/29 Duet Drive,MERMAID WATERS,QLD,4218,680.0,Apartment / Unit / Flat,2,1,1
+2/400 Bridge Road,WEST MACKAY,QLD,4740,375.0,House,2,1,1
+57 Savoy Drive,BROADBEACH WATERS,QLD,4218,1150.0,House,3,2,2
+4 Kennerly street,CURTIN,ACT,2605,795.0,House,4,1,4
+9 Nord Street,SPEERS POINT,NSW,2284,680.0,House,3,1,2
+7/46 Ormond Esplanade,ELWOOD,VIC,3184,495.0,Apartment / Unit / Flat,1,1,1
+2/13 Gordon Grove,MALVERN,VIC,3144,600.0,Apartment / Unit / Flat,2,1,0
+31/64 Esplanade Street,SURFERS PARADISE,QLD,4217,720.0,Apartment / Unit / Flat,2,1,1
+1/13 Gordon Grove,MALVERN,VIC,3144,600.0,Apartment / Unit / Flat,2,1,0
+8/11 Abbotsford Parade,ABBOTSFORD,NSW,2046,800.0,Apartment / Unit / Flat,2,1,1
+6803/117 Bathurst Street,SYDNEY,NSW,2000,2200.0,Apartment / Unit / Flat,3,2,1
+G54/7 Epping Park Drive,EPPING,NSW,2121,720.0,Apartment / Unit / Flat,2,2,1
+1/45 Onslow Street,ROSE BAY,NSW,2029,1700.0,Townhouse,3,2,2
+26/153 Murranji Street,HAWKER,ACT,2614,310.0,Apartment / Unit / Flat,1,1,1
+1/183 Blair Street,NORTH BONDI,NSW,2026,800.0,Apartment / Unit / Flat,2,1,1
+28 Amesbury Avenue,SEFTON,NSW,2162,650.0,House,3,1,1
+309 Rio Vista Boulevard,MERMAID WATERS,QLD,4218,1100.0,House,4,2,2
+22 Cockburn Street,CURTIN,ACT,2605,1050.0,House,4,2,2
+1509/161 Clarence Street,SYDNEY,NSW,2000,1050.0,Apartment / Unit / Flat,1,1,0
+10/37-51 Foster Street,SURRY HILLS,NSW,2010,950.0,Apartment / Unit / Flat,2,2,1
+125 Jones Street,ULTIMO,NSW,2007,895.0,Apartment / Unit / Flat,3,1,1
+103/727 Malvern Road,TOORAK,VIC,3142,2000.0,Apartment / Unit / Flat,3,2,2
+10/120 John Gorton Drive,COOMBS,ACT,2611,580.0,Apartment / Unit / Flat,2,2,2
+1A Redondo Avenue,MIAMI,QLD,4220,1750.0,Semi-detached,4,3,2
+1/9 Banksia Close,LANE COVE,NSW,2066,800.0,House,2,1,1
+809/188 Day Street,SYDNEY,NSW,2000,1050.0,Apartment / Unit / Flat,2,2,0
+43/75 Elizabeth Jolley Crescent,FRANKLIN,ACT,2913,440.0,Apartment / Unit / Flat,1,1,1
+131 Lampard Circuit,BRUCE,ACT,2617,800.0,House,4,2,2
+11 Bella Vista Drive,WOODWARK,QLD,4802,700.0,House,3,1,0
+2/5 Sydney Avenue,BARTON,ACT,2600,900.0,Apartment / Unit / Flat,2,2,2
+7/37 St Georges Crescent,DRUMMOYNE,NSW,2047,800.0,Apartment / Unit / Flat,2,1,1
+205/1298 Glen Huntly Road,CARNEGIE,VIC,3163,520.0,Apartment / Unit / Flat,2,1,1
+3/34 Brockley Street,WODONGA,VIC,3690,350.0,Apartment / Unit / Flat,2,1,1
+5/34 Castlebar Road,MALVERN EAST,VIC,3145,370.0,Apartment / Unit / Flat,1,1,1
+48 Wattle Street,HABERFIELD,NSW,2045,950.0,House,2,1,2
+304/4 Masson Street,TURNER,ACT,2612,640.0,Apartment / Unit / Flat,2,1,2
+406/581 Gardeners Road,MASCOT,NSW,2020,950.0,Apartment / Unit / Flat,2,2,2
+6 Chaleyer Street,WILLOUGHBY,NSW,2068,1500.0,House,4,2,2
+44 Sydney Street,ARTARMON,NSW,2064,1800.0,House,4,2,3
+"Level 5, 514/2 Furzer Street",PHILLIP,ACT,2606,470.0,Apartment / Unit / Flat,1,1,1
+76 Coleman Street,MOONAH,TAS,7009,540.0,House,3,1,2
+1 Lees Avenue,CROYDON PARK,NSW,2133,900.0,House,4,1,3
+814/90 Swain Street,GUNGAHLIN,ACT,2912,600.0,Apartment / Unit / Flat,2,2,2
+94/3 London Circuit,CITY,ACT,2601,560.0,Apartment / Unit / Flat,1,1,1
+15/93-95 McLeod Street,CAIRNS CITY,QLD,4870,600.0,Apartment / Unit / Flat,2,2,1
+43 Gilbert Street,HACKETT,ACT,2602,995.0,House,3,2,1
+1/201 Wellington Parade South,EAST MELBOURNE,VIC,3002,800.0,Apartment / Unit / Flat,2,2,1
+181/44 Constitution Avenue,PARKES,ACT,2600,825.0,Apartment / Unit / Flat,2,3,2
+10 Hollis Place,GORDON,ACT,2906,640.0,House,3,1,2
+209 Plimsoll Drive,CASEY,ACT,2913,730.0,Townhouse,4,3,2
+15 Verdun Street,TINGALPA,QLD,4173,800.0,House,3,2,2
+28 Avalon Court,PHILLIP,ACT,2606,460.0,Apartment / Unit / Flat,1,1,1
+60 William Street,WEST END,QLD,4810,750.0,House,3,1,4
+2/1 Oakleigh Road,CARNEGIE,VIC,3163,750.0,Apartment / Unit / Flat,3,2,1
+57/100 Ninth Ave,RAILWAY ESTATE,QLD,4810,415.0,Apartment / Unit / Flat,2,1,1
+1/26 Longlands Street,EAST BRISBANE,QLD,4169,625.0,Apartment / Unit / Flat,2,1,1
+20 Allott Place,BELCONNEN,ACT,2617,610.0,House,3,1,1
+21/164 Wattletree Road,MALVERN,VIC,3144,420.0,Apartment / Unit / Flat,1,1,1
+54A Dunlop Street,KELSO,QLD,4815,460.0,House,3,1,1
+16/2 Cardigan Lane,CAMPERDOWN,NSW,2050,1350.0,Apartment / Unit / Flat,3,2,2
+5/80 The Esplanade,GUILDFORD,NSW,2161,540.0,Apartment / Unit / Flat,2,1,1
+92/48-50 Walker Street,RHODES,NSW,2138,795.0,Apartment / Unit / Flat,2,2,1
+19-21 Billyard Avenue,ELIZABETH BAY,NSW,2011,750.0,Apartment / Unit / Flat,1,1,1
+4/195 Redwood Road,KINGSTON,TAS,7050,550.0,Apartment / Unit / Flat,3,1,1
+3 Aberdeen Street,BUNDABERG SOUTH,QLD,4670,570.0,House,3,1,2
+19/40 Mort Street,BRADDON,ACT,2612,580.0,Apartment / Unit / Flat,1,1,1
+72/190 Albert Street,EAST MELBOURNE,VIC,3002,1400.0,Apartment / Unit / Flat,4,2,2
+501/7 Wilga Street,BURWOOD,NSW,2134,950.0,Apartment / Unit / Flat,2,2,1
+8 Portmarnock Close,MEDOWIE,NSW,2318,730.0,House,4,2,2
+6/164 Wattletree Road,MALVERN,VIC,3144,385.0,Apartment / Unit / Flat,1,1,1
+322/69 John Gorton Drive,WRIGHT,ACT,2611,650.0,Apartment / Unit / Flat,3,2,2
+317/349-357 Bulwara Road,ULTIMO,NSW,2007,750.0,Apartment / Unit / Flat,1,1,0
+9/1-3 Forest Drive,JERRABOMBERRA,NSW,2619,610.0,Townhouse,3,2,2
+14 Ablington Way,CARINDALE,QLD,4152,1100.0,House,5,3,2
+44 Bailey Road,MIDDLETON,SA,5213,575.0,House,3,1,2
+13 Basker Street,CHISHOLM,NSW,2322,810.0,House,4,2,2
+31 Wingrove Avenue,EPPING,NSW,2121,850.0,House,3,1,2
+54 Lambros Drive,BENOWA,QLD,4217,1150.0,House,4,2,2
+1 Roebuck Street,COOMERA,QLD,4209,740.0,House,4,2,2
+12 Balranald Court,HELENSVALE,QLD,4212,1200.0,House,4,2,2
+11/24-28 Reid Avenue,WESTMEAD,NSW,2145,550.0,Apartment / Unit / Flat,2,2,1
+1/8 Albert Street,HIGHETT,VIC,3190,680.0,House,3,1,1
+31 Selwyn Street,HACKETT,ACT,2602,660.0,House,3,1,2
+4 Andrew Street,CLOVELLY,NSW,2031,1300.0,House,2,1,0
+2/42 Murphy Street,RICHMOND,VIC,3121,400.0,Apartment / Unit / Flat,1,1,1
+17/2 Torrens Street,BRADDON,ACT,2612,950.0,House,3,2,2
+4/3A Byer Street,ENFIELD,NSW,2136,700.0,Apartment / Unit / Flat,2,2,1
+1 Namoi Street,NORTH EPPING,NSW,2121,1000.0,House,4,1,1
+1204/153 Parramatta Road,HOMEBUSH,NSW,2140,615.0,Apartment / Unit / Flat,1,1,1
+3C/52 Deloraine Street,LYONS,ACT,2606,490.0,Apartment / Unit / Flat,2,1,1
+57 York St,SYDNEY,NSW,2000,800.0,Apartment / Unit / Flat,1,1,0
+326/2 Anzac Park,CAMPBELL,ACT,2612,750.0,Apartment / Unit / Flat,2,2,2
+101/25 Hotham Street,EAST MELBOURNE,VIC,3002,400.0,Apartment / Unit / Flat,1,1,0
+A2/1 Buchanan Street,BALMAIN,NSW,2041,850.0,Apartment / Unit / Flat,2,2,1
+3/34 Station Street,KOGARAH,NSW,2217,750.0,Apartment / Unit / Flat,3,1,0
+15 At Rear/97-99 Beecroft Road,BEECROFT,NSW,2119,700.0,Apartment / Unit / Flat,2,2,1
+9 Charles St,RICHMOND,VIC,3121,700.0,House,2,1,0
+6 Moorhen Street,DOUGLAS,QLD,4814,540.0,House,4,2,2
+57 York St,SYDNEY,NSW,2000,825.0,Apartment / Unit / Flat,1,1,0
+903/7 Sloane Street,MARIBYRNONG,VIC,3032,470.0,Apartment / Unit / Flat,1,1,1
+35b/2-8 Ridgevista Court,REEDY CREEK,QLD,4227,720.0,Townhouse,3,2,2
+129/33 Currong Street,REID,ACT,2612,630.0,House,2,1,1
+69/140 Thynne Street,BRUCE,ACT,2617,420.0,Apartment / Unit / Flat,1,1,1
+309/130 Carillon Ave,NEWTOWN,NSW,2042,490.0,Studio,1,1,0
+66/15-19 Boundary Street,DARLINGHURST,NSW,2010,625.0,Apartment / Unit / Flat,1,1,0
+18 Haven Street,VICTORIA POINT,QLD,4165,710.0,House,4,2,2
+303/50 Gordon Crescent,LANE COVE NORTH,NSW,2066,700.0,Apartment / Unit / Flat,1,1,1
+10/115-119 Burns Bay Road,LANE COVE,NSW,2066,550.0,Townhouse,2,1,1
+57 York St,SYDNEY,NSW,2000,800.0,Apartment / Unit / Flat,1,1,0
+57 York St,SYDNEY,NSW,2000,680.0,Apartment / Unit / Flat,1,1,0
+10/12 Gleniffer Avenue,BRIGHTON EAST,VIC,3187,620.0,Apartment / Unit / Flat,2,2,1
+8/20 Island Drive,CANNONVALE,QLD,4802,600.0,Apartment / Unit / Flat,2,1,1
+18/5 Rock Street,SCARBOROUGH,QLD,4020,680.0,Apartment / Unit / Flat,3,2,2
+39/170 John Gorton Drive,COOMBS,ACT,2611,520.0,Apartment / Unit / Flat,2,1,1
+10 Peter Coppin Street,BONNER,ACT,2914,800.0,House,4,2,2
+610/120 Eastern Valley Way,BELCONNEN,ACT,2617,570.0,Apartment / Unit / Flat,2,2,1
+305/7 Conder Street,BURWOOD,NSW,2134,900.0,Apartment / Unit / Flat,2,2,1
+107 Trafalgar Street,ANNANDALE,NSW,2038,1200.0,House,3,1,0
+24 Allan Close,PAKENHAM,VIC,3810,580.0,House,4,2,2
+102/14 Brown Street,CHATSWOOD,NSW,2067,870.0,Apartment / Unit / Flat,2,2,1
+2/36 Stormbird St,REDBANK PLAINS,QLD,4301,360.0,Duplex,1,1,1
+8 Fairfax Street,THE PONDS,NSW,2769,860.0,House,3,2,2
+99 Clement Street,SWANBOURNE,WA,6010,3700.0,House,5,3,4
+12 Redcedar Street,NORTH LAKES,QLD,4509,925.0,House,4,2,2
+33 Casalingo Boulevard,MILL PARK,VIC,3082,650.0,Townhouse,3,2,2
+82 Hereford Street,GLEBE,NSW,2037,825.0,Terrace,2,1,0
+3/2 Dobson Street,SOUTH YARRA,VIC,3141,400.0,Apartment / Unit / Flat,1,1,0
+E504/72 MacDonald Street,ERSKINEVILLE,NSW,2043,850.0,Apartment / Unit / Flat,2,1,0
+204/5 Henry Street,TURRELLA,NSW,2205,850.0,Apartment / Unit / Flat,2,2,1
+620/2B Help St,CHATSWOOD,NSW,2067,900.0,Apartment / Unit / Flat,2,2,1
+9/77 Northbourne Avenue,TURNER,ACT,2612,500.0,Apartment / Unit / Flat,1,1,1
+1/18 Standard Avenue,BOX HILL,VIC,3128,1045.0,Townhouse,4,2,3
+51 Cottonwood Street,NARANGBA,QLD,4504,800.0,House,4,2,2
+5/132 King Street,MASCOT,NSW,2020,730.0,Apartment / Unit / Flat,2,1,1
+Unit 4/108-112 Curlewis St,BONDI BEACH,NSW,2026,1100.0,Apartment / Unit / Flat,1,1,1
+10/36-38 Henry Street,WEST END,QLD,4810,320.0,Apartment / Unit / Flat,2,1,1
+12/32 Phillips Street,CABARITA,NSW,2137,1350.0,Apartment / Unit / Flat,3,2,2
+3 Comber Street,PADDINGTON,NSW,2021,1195.0,House,2,2,0
+5/6 Benton Avenue,ARTARMON,NSW,2064,620.0,Apartment / Unit / Flat,2,1,1
+11/82 Victoria Crescent,MONT ALBERT,VIC,3127,560.0,Apartment / Unit / Flat,2,1,1
+19 Parriwi Road,MOSMAN,NSW,2088,6000.0,House,5,5,2
+76A Chuculba Crescent,GIRALANG,ACT,2617,460.0,Townhouse,1,1,1
+1201/2 Joseph Road,FOOTSCRAY,VIC,3011,600.0,Apartment / Unit / Flat,2,2,1
+132 Jabanungga Avenue,NGUNNAWAL,ACT,2913,780.0,House,4,2,2
+3/24 Hampden Road,ARTARMON,NSW,2064,750.0,Apartment / Unit / Flat,2,1,1
+202/65 Cowper Wharf Road,WOOLLOOMOOLOO,NSW,2011,1190.0,Apartment / Unit / Flat,2,2,1
+402/82 Wentworth Avenue,KINGSTON,ACT,2604,690.0,Apartment / Unit / Flat,2,2,2
+3/11 Griffith Street,WODONGA,VIC,3690,380.0,Apartment / Unit / Flat,1,1,1
+158/14 Brown Street,CHATSWOOD,NSW,2067,900.0,Apartment / Unit / Flat,2,2,1
+32a Tinderry Circuit,PALMERSTON,ACT,2913,650.0,Semi-detached,3,2,2
+16 Limari Place,SINAGRA,WA,6065,750.0,House,3,2,2
+1302/1-3 Valentine Avenue,PARRAMATTA,NSW,2150,620.0,Apartment / Unit / Flat,1,1,0
+83 Beach Road,MENTONE,VIC,3194,1450.0,House,4,2,3
+1/80 Barcom Avenue,DARLINGHURST,NSW,2010,875.0,Apartment / Unit / Flat,1,1,1
+3/107 New South Head Road,VAUCLUSE,NSW,2030,1500.0,Apartment / Unit / Flat,3,2,0
+211/1-3 Lynne Avenue,WANTIRNA SOUTH,VIC,3152,530.0,Apartment / Unit / Flat,2,2,1
+32/3 Defries Avenue,ZETLAND,NSW,2017,1000.0,Apartment / Unit / Flat,2,2,1
+43/135-139 Croydon Avenue,CROYDON PARK,NSW,2133,600.0,Apartment / Unit / Flat,2,1,1
+4 Lipman Street,CHAPMAN,ACT,2611,275.0,Apartment / Unit / Flat,1,1,1
+101 Blackett Street,DOWNER,ACT,2602,600.0,House,3,1,1
+57 Bettie Mcnee Street,WATSON,ACT,2602,800.0,Townhouse,4,2,2
+2/1 Morrison Street,CLAYTON,VIC,3168,795.0,Townhouse,3,2,2
+D1142/1 Finch Drive,PAGEWOOD,NSW,2035,1400.0,Apartment / Unit / Flat,3,2,2
+2/18 Soe Street,REDBANK,QLD,4301,360.0,House,1,1,1
+106/687 Glen Huntly Road,CAULFIELD,VIC,3162,560.0,Apartment / Unit / Flat,2,1,1
+1 bed/16 Railway Parade,BURWOOD,NSW,2134,750.0,Apartment / Unit / Flat,1,1,1
+5/75 Riding Road,HAWTHORNE,QLD,4171,640.0,Apartment / Unit / Flat,2,2,1
+7/25 Hughes Street,POTTS POINT,NSW,2011,450.0,Studio,0,1,0
+31 Prospect Street,SURRY HILLS,NSW,2010,1050.0,House,2,1,0
+3/1 Bowral Avenue,MIRANDA,NSW,2228,980.0,Townhouse,3,2,2
+133 Hargrave Street,PADDINGTON,NSW,2021,1500.0,House,3,2,1
+14/36 Dry Dock Road,TWEED HEADS SOUTH,NSW,2486,760.0,Apartment / Unit / Flat,2,2,1
+7 Kilmister Crt,GATTON,QLD,4343,700.0,House,4,2,2
+43 O'Connell Street,REDCLIFFE,QLD,4020,600.0,House,3,1,1
+15 Ferndale Street,NEWTOWN,NSW,2042,800.0,Terrace,2,1,0
+21/4 Golgerth Street,DENMAN PROSPECT,ACT,2611,900.0,Townhouse,4,3,2
+5/7 Lucy Street,GAYTHORNE,QLD,4051,570.0,Apartment / Unit / Flat,2,2,1
+5 Sargood Street,TOORAK,VIC,3142,2000.0,House,4,4,2
+205/15 Wentworth Street,MANLY,NSW,2095,1350.0,Apartment / Unit / Flat,2,2,1
+330/2-12 Glebe Point Road,GLEBE,NSW,2037,620.0,Apartment / Unit / Flat,1,1,1
+1/55 Pedder Street,NEW TOWN,TAS,7008,620.0,House,3,1,2
+8/2-8 William Street,RANDWICK,NSW,2031,1350.0,Apartment / Unit / Flat,3,2,1
+7/75 Wentworth St,RANDWICK,NSW,2031,800.0,Apartment / Unit / Flat,2,1,1
+27 Prospect Street,PADDINGTON,NSW,2021,1650.0,Terrace,3,2,1
+7/15 Morisset Street,QUEANBEYAN,NSW,2620,480.0,Apartment / Unit / Flat,1,1,1
+10/8 young Street,PADDINGTON,NSW,2021,850.0,Apartment / Unit / Flat,1,1,1
+56/1 Kogarah Lane,REID,ACT,2612,1200.0,Townhouse,4,3,3
+21607/2 Figtree Drive,SYDNEY OLYMPIC PARK,NSW,2127,660.0,Apartment / Unit / Flat,1,1,0
+2.07/116 Belmont Road,MOSMAN,NSW,2088,800.0,Apartment / Unit / Flat,1,1,1
+154 Raeburn Street,MANLY WEST,QLD,4179,550.0,House,4,1,0
+1/58 Fern St,RANDWICK,NSW,2031,750.0,Apartment / Unit / Flat,2,1,1
+2 Mandible Street,ALEXANDRIA,NSW,2015,700.0,Apartment / Unit / Flat,1,1,0
+68-70 Market St,SYDNEY,NSW,2000,920.0,Apartment / Unit / Flat,1,1,0
+75 Lang Street,SOUTH YARRA,VIC,3141,850.0,House,2,1,0
+Unit 34/22-28 Canterbury St,FLEMINGTON,VIC,3031,310.0,Studio,0,1,1
+11/27 Fore Street,CANTERBURY,NSW,2193,360.0,Studio,0,1,0
+1412/4 Joseph Road,FOOTSCRAY,VIC,3011,500.0,Apartment / Unit / Flat,1,1,1
+2/34 Hamilton Street,ROSE BAY,NSW,2029,1750.0,Apartment / Unit / Flat,2,1,2
+302/150 Kerr Street,FITZROY,VIC,3065,750.0,Apartment / Unit / Flat,2,2,1
+3C/6 Bligh Place,RANDWICK,NSW,2031,800.0,Apartment / Unit / Flat,1,1,1
+45 Eucalyptus Street,JACKASS FLAT,VIC,3556,560.0,House,4,2,2
+131/1 Katherine Street,CHATSWOOD,NSW,2067,950.0,Apartment / Unit / Flat,2,2,1
+276 Gardeners Road,ROSEBERY,NSW,2018,1400.0,House,4,2,2
+7/48-64 Wentworth Park Road,GLEBE,NSW,2037,850.0,Apartment / Unit / Flat,1,1,0
+106A/132 Epsom Road,ZETLAND,NSW,2017,1060.0,Apartment / Unit / Flat,2,2,1
+3/44 Carrington Street,QUEANBEYAN,NSW,2620,470.0,Apartment / Unit / Flat,2,1,2
+10 Bayville Drive,DINGLEY VILLAGE,VIC,3172,675.0,House,3,2,2
+4 Rumsay Street,ROZELLE,NSW,2039,900.0,House,2,2,0
+16 Allamanda Way,THORNLEIGH,NSW,2120,850.0,Townhouse,3,2,2
+70B Beaconsfield Parade,NORTHCOTE,VIC,3070,1000.0,Townhouse,3,1,1
+70/2 McMichael Terrace,DENMAN PROSPECT,ACT,2611,610.0,Apartment / Unit / Flat,2,2,1
+9/4 Bortfield Drive,CHISWICK,NSW,2046,775.0,Apartment / Unit / Flat,2,1,1
+15 Dyson Drive,DARLING HEIGHTS,QLD,4350,500.0,House,3,1,1
+40 Kokoda Place,MORDIALLOC,VIC,3195,640.0,Townhouse,2,2,1
+145 Male Street,BRIGHTON,VIC,3186,3200.0,House,4,3,3
+63/21 Aspinall Street,WATSON,ACT,2602,374.0,Apartment / Unit / Flat,2,1,1
+34 Larnook Street,PRAHRAN,VIC,3181,1050.0,House,3,1,0
+4 Maple Drive,ANDERGROVE,QLD,4740,600.0,House,3,1,3
+7/73A Macleay Street,POTTS POINT,NSW,2011,950.0,Apartment / Unit / Flat,2,1,0
+519-521 Abbotsford Street,NORTH MELBOURNE,VIC,3051,900.0,House,4,2,1
+7 Johnson Street,SHEFFIELD,TAS,7306,460.0,House,3,2,2
+18 Queen Street,CROYDON PARK,NSW,2133,2000.0,Semi-detached,5,4,2
+4/20 Etonville Parade,CROYDON,NSW,2132,565.0,Apartment / Unit / Flat,2,1,1
+3 Kemp Street,TENNYSON POINT,NSW,2111,1200.0,House,4,3,2
+C117/2 Mandible Street,ALEXANDRIA,NSW,2015,740.0,Apartment / Unit / Flat,1,1,1
+31/25-27 Wongala Crescent,BEECROFT,NSW,2119,770.0,Apartment / Unit / Flat,2,2,1
+113/8 Wharf Road,GLADESVILLE,NSW,2111,650.0,Apartment / Unit / Flat,1,1,1
+12/98 Park Street,ST KILDA WEST,VIC,3182,450.0,Apartment / Unit / Flat,1,1,0
+4/44 Bayswater Road,RUSHCUTTERS BAY,NSW,2011,650.0,Apartment / Unit / Flat,1,1,0
+10 Bellarine Circuit,COOMERA,QLD,4209,875.0,House,4,2,2
+4708/45 Clarke Street,SOUTHBANK,VIC,3006,750.0,Apartment / Unit / Flat,2,2,1
+319/88 Kavanagh Street,SOUTHBANK,VIC,3006,575.0,Apartment / Unit / Flat,1,1,1
+1006/8 Brown Street,CHATSWOOD,NSW,2067,1000.0,Apartment / Unit / Flat,2,2,1
+3/453 Glenmore Road,EDGECLIFF,NSW,2027,995.0,Apartment / Unit / Flat,2,1,1
+19/174W Toorak Road,SOUTH YARRA,VIC,3141,425.0,Apartment / Unit / Flat,1,1,1
+212/111 Canning Street,NORTH MELBOURNE,VIC,3051,520.0,Apartment / Unit / Flat,1,1,1
+1/72 Dennis Street,LAKEMBA,NSW,2195,520.0,Apartment / Unit / Flat,2,1,1
+6/15 Logie Street,OAKLEIGH,VIC,3166,440.0,Apartment / Unit / Flat,2,1,1
+447-451 Pacific Highway,ASQUITH,NSW,2077,725.0,Apartment / Unit / Flat,3,2,2
+8/88 Coogee Bay Road,COOGEE,NSW,2034,850.0,Apartment / Unit / Flat,2,1,0
+1704/8 Kingsborough Way,ZETLAND,NSW,2017,900.0,Apartment / Unit / Flat,1,1,0
+3/171 Barkly Street,BRUNSWICK,VIC,3056,520.0,Apartment / Unit / Flat,2,1,1
+3/112 Cross Road,HIGHGATE,SA,5063,870.0,House,4,3,2
+10 Edward Street,BONDI,NSW,2026,1150.0,Apartment / Unit / Flat,2,2,1
+2/13 Werambie Street,HUNTERS HILL,NSW,2110,620.0,Apartment / Unit / Flat,2,1,1
+39 Verbrugghen Street,MELBA,ACT,2615,570.0,House,3,2,2
+13/393 Toorak Road,SOUTH YARRA,VIC,3141,520.0,Apartment / Unit / Flat,1,1,0
+116 Bathurst Street,SYDNEY,NSW,2000,1350.0,Apartment / Unit / Flat,2,2,1
+67 Bayswater Road,RUSHCUTTERS BAY,NSW,2011,795.0,Apartment / Unit / Flat,1,1,0
+4/11 Sabre Crescent,HOLSWORTHY,NSW,2173,700.0,Townhouse,2,2,2
+10/37 Iredale Street,NEWTOWN,NSW,2042,490.0,Studio,1,1,1
+31/202 Wattletree Road,MALVERN,VIC,3144,480.0,Apartment / Unit / Flat,2,1,1
+39 Cohoe Street,RANGEVILLE,QLD,4350,620.0,House,4,1,2
+5 Oak Street,HAWTHORNE,QLD,4171,1800.0,House,4,3,2
+88 Barangaroo Avenue,BARANGAROO,NSW,2000,1600.0,Apartment / Unit / Flat,1,1,0
+29 Yarra Way,NIRIMBA,QLD,4551,650.0,Townhouse,2,2,1
+201/1 Saunders Close,MACQUARIE PARK,NSW,2113,650.0,Apartment / Unit / Flat,1,1,1
+281 Elizabeth Street,SYDNEY,NSW,2000,890.0,Apartment / Unit / Flat,1,1,0
+3 Partridge Street,NORTH TOOWOOMBA,QLD,4350,620.0,House,4,2,0
+7/506-514 Botany Road,ALEXANDRIA,NSW,2015,800.0,Apartment / Unit / Flat,2,1,1
+4 Macfarlan Lane,SOUTH YARRA,VIC,3141,1380.0,Townhouse,3,2,2
+2/40 Waratah Avenue,RANDWICK,NSW,2031,775.0,Apartment / Unit / Flat,1,1,1
+5/99 Eastern Valley Way,CASTLECRAG,NSW,2068,550.0,Apartment / Unit / Flat,1,1,1
+72 PRO HART AVENUE,STRATHNAIRN,ACT,2615,740.0,House,4,2,2
+84/148 Flemington Road,HARRISON,ACT,2914,590.0,House,2,2,2
+202/120 Penshurst Street,WILLOUGHBY,NSW,2068,1200.0,Apartment / Unit / Flat,3,3,1
+9/91 Hill Street,WEST HOBART,TAS,7000,400.0,Apartment / Unit / Flat,1,1,1
+84/113 Anzac Highway,KURRALTA PARK,SA,5037,470.0,House,2,1,1
+3/338 Inkerman Street,ST KILDA EAST,VIC,3183,400.0,Apartment / Unit / Flat,1,1,1
+22a Paddlesteamer Court,THURGOONA,NSW,2640,410.0,Apartment / Unit / Flat,2,1,1
+43 Pridham Street,PRAHRAN,VIC,3181,765.0,House,2,1,0
+18 Loftus Street,SYDNEY,NSW,2000,1100.0,Apartment / Unit / Flat,1,1,0
+1/262 Maroubra Road,MAROUBRA,NSW,2035,950.0,Apartment / Unit / Flat,2,1,1
+9/3 Quat Quatta Avenue,RIPPONLEA,VIC,3185,550.0,Apartment / Unit / Flat,2,1,1
+8 Whitford Drive,MODBURY NORTH,SA,5092,880.0,House,5,2,0
+7 Kevin Street,RIVERVIEW,QLD,4303,450.0,House,3,1,1
+13/2 Northwood Street,CAMPERDOWN,NSW,2050,880.0,Apartment / Unit / Flat,2,1,1
+3 Gillingham Court,KIRWAN,QLD,4817,580.0,House,4,2,2
+129 Harrington Street,SYDNEY,NSW,2000,875.0,Apartment / Unit / Flat,1,1,0
+414/21 Hill Road,WENTWORTH POINT,NSW,2127,550.0,Apartment / Unit / Flat,1,1,1
+21/2 Cowan Road,MOUNT COLAH,NSW,2079,640.0,Apartment / Unit / Flat,2,2,1
+150/77 Northbourne Avenue,TURNER,ACT,2612,1080.0,Apartment / Unit / Flat,3,2,0
+2 Markham Street,HOLSWORTHY,NSW,2173,675.0,House,3,1,2
+204/8 Amelia Street,WATERLOO,NSW,2017,840.0,Apartment / Unit / Flat,2,1,0
+9/78-80 New Canterbury Road,PETERSHAM,NSW,2049,630.0,Apartment / Unit / Flat,1,1,0
+9/1a Macpherson Street,WAVERLEY,NSW,2024,750.0,Apartment / Unit / Flat,2,1,1
+1 Kidmans Terrace,WOOLLOOMOOLOO,NSW,2011,1225.0,Terrace,2,1,0
+9 Bayside Court,JERRABOMBERRA,NSW,2619,770.0,House,3,2,2
+11 Havana Way,PARADISE POINT,QLD,4216,1600.0,House,5,3,2
+1806/50 Lorimer Street,DOCKLANDS,VIC,3008,660.0,Apartment / Unit / Flat,2,1,1
+2/2a Marlton Crescent,ST KILDA,VIC,3182,540.0,Apartment / Unit / Flat,2,1,0
+8 Rodd Road,FIVE DOCK,NSW,2046,785.0,Apartment / Unit / Flat,2,1,0
+7 Weil Avenue,CROYDON PARK,NSW,2133,875.0,House,3,2,1
+2/56 Larnook Street,PRAHRAN,VIC,3181,1400.0,Townhouse,3,3,2
+14 Mackellar Rise,MAUDSLAND,QLD,4210,760.0,House,4,2,2
+6/15 Cardigan Street,ST KILDA EAST,VIC,3183,350.0,Apartment / Unit / Flat,1,1,1
+67/151 Fitzroy Street,ST KILDA,VIC,3182,875.0,Apartment / Unit / Flat,3,1,1
+418/2 Anzac Park,CAMPBELL,ACT,2612,700.0,Apartment / Unit / Flat,2,2,2
+19/115 Christo Road,WARATAH,NSW,2298,520.0,Villa,2,1,1
+2/52 Collin Street,LAKEMBA,NSW,2195,525.0,Apartment / Unit / Flat,2,1,1
+2/16 Anne Avenue,BROADBEACH,QLD,4218,680.0,House,2,1,1
+3/28 Chasley Court,BEENLEIGH,QLD,4207,550.0,House,3,1,1
+11A Oorana Avenue,PHILLIP BAY,NSW,2036,1400.0,Semi-detached,3,1,1
+G22/55 Currong Street North,BRADDON,ACT,2612,650.0,Apartment / Unit / Flat,1,1,1
+24 Mcnamara Way,VIRGINIA,SA,5120,720.0,House,4,2,2
+2 Donal Street,MURRUMBEENA,VIC,3163,695.0,House,4,1,4
+10/500 Pacific Highway,ST LEONARDS,NSW,2065,1300.0,Apartment / Unit / Flat,2,2,1
+1008/212-218 Bondi Road,BONDI,NSW,2026,620.0,Studio,0,1,0
+18 Fennell Street,PARRAMATTA,NSW,2150,430.0,Studio,0,1,0
+13-15 Collins Street,ANNANDALE,NSW,2038,975.0,Apartment / Unit / Flat,2,1,0
+3/23 - 25 Doodson Avenue,LIDCOMBE,NSW,2141,880.0,Apartment / Unit / Flat,3,2,2
+16/52 Wentworth Avenue,MASCOT,NSW,2020,600.0,Apartment / Unit / Flat,1,1,1
+72 Portman Street,ZETLAND,NSW,2017,1500.0,Terrace,3,3,1
+4/39 Edgar Street,GLEN IRIS,VIC,3146,1600.0,Townhouse,3,2,2
+101/6 Percy Place,PRAHRAN,VIC,3181,570.0,Apartment / Unit / Flat,1,1,1
+28 Rest Drive,FLINDERS,VIC,3929,895.0,House,3,2,0
+5 Delatite Street,NIRIMBA,QLD,4551,900.0,House,5,3,2
+710D/615 Victoria Street,ABBOTSFORD,VIC,3067,450.0,Apartment / Unit / Flat,1,1,0
+25/16 Doonkuna Street,BRADDON,ACT,2612,580.0,Apartment / Unit / Flat,1,1,1
+5 Carnoustie Avenue,WODONGA,VIC,3690,570.0,House,4,2,2
+2/7-11 Clowes Street,SOUTH YARRA,VIC,3141,615.0,Apartment / Unit / Flat,2,1,1
+2/1 Bellett Street,CAMBERWELL,VIC,3124,595.0,Apartment / Unit / Flat,2,1,1
+91 Nicholson Street,ABBOTSFORD,VIC,3067,740.0,Townhouse,2,2,1
+3/8 Marathon Road,DARLING POINT,NSW,2027,1550.0,Apartment / Unit / Flat,3,2,1
+18 Phelps Street,SURRY HILLS,NSW,2010,1550.0,House,3,1,0
+1/1 Tewkesbury Avenue,DARLINGHURST,NSW,2010,2150.0,Townhouse,4,2,1
+4/96 Chandos Street,ST LEONARDS,NSW,2065,510.0,Apartment / Unit / Flat,1,1,0
+39 Ruthven Street,BONDI JUNCTION,NSW,2022,1275.0,House,2,1,0
+6605/21 Tung Hop Street,WATERLOO,NSW,2017,1100.0,Apartment / Unit / Flat,2,2,1
+407/11 Washington Avenue,RIVERWOOD,NSW,2210,710.0,Apartment / Unit / Flat,3,2,1
+Unit 110/33 Harvey St,LITTLE BAY,NSW,2036,1050.0,Apartment / Unit / Flat,2,2,1
+1/10 Wyuna Road,CAULFIELD NORTH,VIC,3161,900.0,Apartment / Unit / Flat,4,2,2
+130 Elizabeth Street,SYDNEY,NSW,2000,1600.0,Apartment / Unit / Flat,2,2,1
+1/14 Valetta Street,MALVERN,VIC,3144,900.0,Townhouse,3,2,2
+41C/21 Beissel Street,BELCONNEN,ACT,2617,470.0,Apartment / Unit / Flat,1,1,1
+124/15 Coranderrk Street,CITY,ACT,2601,780.0,Apartment / Unit / Flat,2,2,2
+11 Ida Avenue,MOSMAN,NSW,2088,1850.0,House,2,2,4
+5/67 Ormond Road,ELWOOD,VIC,3184,480.0,Apartment / Unit / Flat,2,1,1
+12/2 New Mclean Street,EDGECLIFF,NSW,2027,750.0,Apartment / Unit / Flat,1,1,1
+1/5 Scott Street,BRONTE,NSW,2024,1100.0,Apartment / Unit / Flat,2,1,0
+407/2 Nield Avenue,DARLINGHURST,NSW,2010,895.0,Apartment / Unit / Flat,1,1,0
+71 Beechworth Place,WATSON,ACT,2602,680.0,Townhouse,2,2,1
+1202/81 Grafton Street,BONDI JUNCTION,NSW,2022,1150.0,Apartment / Unit / Flat,2,2,2
+16/67 Cowper Wharf Roadway,WOOLLOOMOOLOO,NSW,2011,850.0,Apartment / Unit / Flat,1,1,1
+29a Bonview Street,EAST BALLINA,NSW,2478,780.0,Apartment / Unit / Flat,3,2,1
+5/11 Southey St,ELWOOD,VIC,3184,490.0,Apartment / Unit / Flat,2,1,1
+32a Fiveash Street,CHISHOLM,ACT,2905,430.0,House,1,2,1
+23 O'Donnell Street,NORTH BONDI,NSW,2026,1300.0,Semi-detached,3,1,1
+48 Bungonia Street,NARRABUNDAH,ACT,2604,620.0,House,2,1,2
+7/16-18 Crisallen Street,PORT MACQUARIE,NSW,2444,390.0,Apartment / Unit / Flat,3,1,1
+22/21 Station Street,THORNLEIGH,NSW,2120,695.0,Apartment / Unit / Flat,2,2,1
+38 YORK STREET,SYDNEY,NSW,2000,1350.0,Apartment / Unit / Flat,2,2,0
+166 Barker Street,RANDWICK,NSW,2031,1350.0,Apartment / Unit / Flat,2,2,1
+211 Canterbury Road,CANTERBURY,NSW,2193,630.0,Apartment / Unit / Flat,1,1,1
+11A Church Hill Road,ECHUNGA,SA,5153,650.0,House,4,1,3
+6/5 Denman Avenue,WILEY PARK,NSW,2195,550.0,Apartment / Unit / Flat,2,1,1
+11 Jeanine Cres,NIRIMBA,QLD,4551,680.0,House,4,2,2
+17 Scouler Way,BATEMAN,WA,6150,950.0,House,4,2,2
+101 Kenmore Road,KENMORE,QLD,4069,900.0,House,5,3,2
+401/10-12 First Avenue,BROADBEACH,QLD,4218,1700.0,Apartment / Unit / Flat,3,2,1
+104/38 Waterloo Street,SURRY HILLS,NSW,2010,675.0,Apartment / Unit / Flat,1,1,0
+301/28-34 Mindarie Street,LANE COVE,NSW,2066,995.0,Apartment / Unit / Flat,2,2,2
+25 Hedditch Court,STRATHNAIRN,ACT,2615,610.0,House,2,2,1
+73/1 Kiara Close,NORTH SYDNEY,NSW,2060,1250.0,Apartment / Unit / Flat,2,2,2
+13 Northend Close,SWAN VIEW,WA,6056,580.0,House,4,2,1
+18/2-6 Junction Street,RYDE,NSW,2112,680.0,Apartment / Unit / Flat,1,1,1
+648A Willoughby Road,WILLOUGHBY,NSW,2068,1150.0,House,2,1,2
+40 Orania Cres,CALAMVALE,QLD,4116,650.0,House,4,2,4
