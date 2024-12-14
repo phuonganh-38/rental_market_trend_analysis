@@ -21,4 +21,4 @@ This project involves scraping rental property data from [domain](https://www.do
 - pandas==2.1.1
 - numpy==1.24.3
 - sqlite3==3.41.2
-- selenium=4.21.0
+- selenium==4.21.0
