@@ -10,7 +10,7 @@ from database import create_database, insert_property
 # Set up Chrome option
 chrome_options = Options()
 
-# Set uo service
+# Set up service
 service = Service('/Users/phuonganhpham/chromedriver/chromedriver')
 
 # Set up the webdriver
