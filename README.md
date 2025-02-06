@@ -53,7 +53,7 @@ Everything appeared quite great - no missing values. But is our dataset truely f
 `Price`, `Bed`, `Bath`, and `Parking` were stored as an **object** instead of a **numeric** type. This means that something is incorrect within our data. Let's explore and fix it!
 <br>
 
-**Inconsistancies in `Price`**
+**Inconsistencies in `Price`**
 
 I found that `Price` are in various formats, including:
 
@@ -64,11 +64,41 @@ I found that `Price` are in various formats, including:
 - Comma-separated currency format ($1,150)
 - Noisy entries ($650 per week!! Fully Air-conditioned Property!)
 
-Standardizing price: The pattern \d[\d]* matches any sequence starting with a digit followed by digits or commas. It will stop matching at the first non-digit/non-comma character.
+>> To standardize these values, I implemented a solution: a regular expression pattern to extract numeric values while ignoring unnecessary characters.
+>> Here is how it worked:
+- `\d`: match the first digit.
+- `[\d,]*`: continued matching as long as the characters were digits or commas.
+- The function concatenated all matched digits, stripping out words, special characters, and symbols.
 
-\d: match the first digit
+```python
+def extract_numbers(price):
+    if isinstance(price, str): # Ensure dtype of 'Price' is string
+        match = re.search(r'\d[\d,]*', price) # Apply regex
+        return int(match.group().replace(',', '')) if match else None # Remove commas and convert to integer
+    return None
 
-[\d,]*: match digits and commas, keep matching as long as the characters are digits and commas
+## Apply to column `Price`
+df['Price'] = df['Price'].apply(extract_numbers)
+```
+
+```python
+def extract_count(count):
+    if isinstance(count, str):
+        numbers = ''.join(re.findall(r'\d+', count)) # Use regex to find
+        return int(numbers) if numbers else None
+    return None
+```
+
+Then, apply the function to `Bed`, `Bath`, and `Parking`
+
+```python
+df['Bed'] = df['Bed'].apply(extract_count)
+df['Bath'] = df['Bath'].apply(extract_count)
+df['Parking'] = df['Parking'].apply(extract_count)
+```
+
+
+
 
 
 
