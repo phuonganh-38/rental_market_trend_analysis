@@ -17,9 +17,6 @@ This project involves scraping rental property data from [domain](https://www.do
 - `README.md`: a markdown file
 <br>
 
-## **How was the data scraped?**
-
-<br>
 
 ## **How was the data cleaned?**
 After scraping data from the web, I saved it in 2 formats: `properties.db` and `properties.csv`
@@ -110,7 +107,7 @@ df['Parking'] = df['Parking'].fillna(0).astype(int)
 ```
 <br>
 
-3. Cleaning up Address
+3. **Cleaning up Address**
 > An issue was spotted in the `Address` column - all values ended with a trailing comma, and possibly with invisible spaces.
 > To clean this up, let's strip these unnecessary characters:
 
@@ -120,7 +117,7 @@ df['Address'] = df['Address'].str.rstrip(', ')
 ```
 <br>
 
-4. Check inconsistencies in `Suburb` and `State` names
+4. **Check inconsistencies in `Suburb` and `State` names**
 
 Let's print out unique names of `Suburb` and `State`
 → There is no whitespace, all characters are uppercase.
@@ -140,7 +137,7 @@ print(f"Number of unique suburbs: {unique_suburb}")
 > Number of unique suburbs: 475
 <br>
 
-5. Check null values
+5. **Handle null values and remove outliers**
 ```python
 df.isnull().sum()
 
@@ -160,24 +157,57 @@ dtype: int64
 However, we first need to take a look at prices to explore whether our dataset contains unreasonable values.
 Let's take a look at the distribution of property prices!
 
-<img width="531" alt="image" src="https://github.com/user-attachments/assets/36cd31db-dfc9-4641-8d24-a6db0dd7c8ff" />
+<div align="center">
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/36cd31db-dfc9-4641-8d24-a6db0dd7c8ff" />
+</div>
 
 Some properties are listed at an unreasonably low rent — suspiciously close to zero, while there are several extremely expensive listings.
 
 **Low rent: Errors or Hidden insights?**
 
-In reality, finding a property at such a very low weekly rent of under $100 is almost impossible. Therefore, these listings could be errors (possibly missing digits, the sellers forget to input the rent, or they might represent parking space rentals rather than actual properties)
+In reality, finding a property at such a very low weekly rent of under $100 is almost impossible. Therefore, these listings could be errors (possibly missing digits, the sellers forget to input the rent, or they might represent parking space rentals rather than actual properties)<br>
+<br>
 
 **High rent: Luxury properties or Anomalies?**
 
 Let's explore deeply properties with the rent exceeding $3,000 per week:
 
 ```python
-high_rent = df[df["Price"]>=3000]
+high_rent = df[df["Price"] >= 3000]
 ```
-<img width="553" alt="image" src="https://github.com/user-attachments/assets/e697bfc1-9321-4a54-a835-25e01938fad1" />
-It seems that the high-rent properties are reasonable and possible. All properties in this range had 3-6 bedrooms, multiple bathrooms, and lots of parking space, making them luxury homes. Additionally, these properties were located in some of the most expensive suburbs in Australia reported by [Domain](https://www.domain.com.au/news/the-top-10-most-expensive-suburbs-in-australia-in-2024-are-worth-a-cool-55-1-million-combined-1259885/). Thus, we do not need to remove these records.
+<div align="center">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e697bfc1-9321-4a54-a835-25e01938fad1" />
+</div>
 
+It seems that the high-rent properties are reasonable and possible. All properties in this range had 3-6 bedrooms, multiple bathrooms, and lots of parking space, making them luxury homes. Additionally, these properties were located in some of the most expensive suburbs in Australia (reported by [domain](https://www.domain.com.au/news/the-top-10-most-expensive-suburbs-in-australia-in-2024-are-worth-a-cool-55-1-million-combined-1259885/)). Thus, we do not need to remove these records.
+
+Now let's drop properties having rent of under $100 per week:
+```python
+df = df[(df["Price"] > 100) | (df["Price"].isna())]
+```
+<br>
+
+**Fill null values with mean**
+```python
+df["Price"] = df["Price"].fillna(df["Price"].mean())
+```
+<br>
+
+6. **Properties with missing room details**
+
+```python
+imcomplete_listing = df.loc[(df['Bed'] == 0) & (df['Bath'] == 0) & (df['Parking'] == 0)]
+```
+<div align="center">
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/a41d6916-9da3-4f90-b8b5-2170dd1dc004" />
+</div>
+
+A property had no bedrooms, bathrooms, or parking spaces listed? That didn't seem right. We then have to drop these listings.
+```python
+df = df[~((df['Bed'] == 0) & (df['Bath'] == 0) & (df['Parking'] == 0))]
+```
+The cleaned dataset is saved as `cleaned_property_data.csv`
+<br>
 
 ## **Environment details**
 - python==3.11.5
@@ -185,7 +215,7 @@ It seems that the high-rent properties are reasonable and possible. All properti
 - numpy==1.24.3
 - sqlite3==3.41.2
 - selenium==4.21.0
-
+<br>
 
 ## **References**
 https://www.domain.com.au/news/the-top-10-most-expensive-suburbs-in-australia-in-2024-are-worth-a-cool-55-1-million-combined-1259885/
