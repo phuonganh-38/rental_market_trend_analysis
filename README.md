@@ -206,7 +206,7 @@ A property had no bedrooms, bathrooms, or parking spaces listed? That didn't see
 ```python
 df = df[~((df['Bed'] == 0) & (df['Bath'] == 0) & (df['Parking'] == 0))]
 ```
-The cleaned dataset is saved as `cleaned_property_data.csv`
+The cleaned dataset is saved as `cleaned_property_data.csv`<br>
 <br>
 
 ## **Environment details**
