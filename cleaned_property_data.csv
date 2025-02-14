@@ -1,4 +1,4 @@
-Address,Suburb,State,Post code,Price,Property type,Bed,Bath,Parking
+address,suburb,state,post_code,price,property_type,bed,bath,parking
 3/9 Lambert Street,CAMMERAY,NSW,2062,690.0,Apartment / Unit / Flat,2,1,0
 18 Chatham Way,HARRISDALE,WA,6112,820.0,House,4,2,2
 102/157-163 Burwood Road,HAWTHORN,VIC,3122,580.0,Apartment / Unit / Flat,2,1,1
