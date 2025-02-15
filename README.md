@@ -20,9 +20,9 @@ This project involves scraping rental property data from [domain](https://www.do
 
 [**How is the data cleaned?**](data_cleaning.MD)
 
-[**What does the data reveal?**](exploratory_data_analysis.MD)
+[**What does the data reveal?**](exploratory_data_analysis.md)
 
-[**How does SQL unlock Rental Market Insights?**](data_queries.MD)
+[**How does SQL unlock Rental Market Insights?**](data_queries.md)
 
 ## **Environment details**
 - python==3.11.5
