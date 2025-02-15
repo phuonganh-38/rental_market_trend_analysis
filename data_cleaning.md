@@ -32,9 +32,11 @@ Everything appears quite great - no missing values. But is our dataset truly fla
 `Price`, `Bed`, `Bath`, and `Parking` were stored as an **object** instead of a **numeric** type. This means that something is incorrect within our data. Let's explore and fix it!
 <br>
 
-1. **Inconsistencies in `Price`**
+I first standardized columns' names to lowercase without any space for importing data into Dbeaver later on.
 
-> I found that values of `Price` are in various formats, including:
+1. **Inconsistencies in `price`**
+
+> I found that values of `price` are in various formats, including:
 > - Plain numeric values ($690)
 > - Decimals ($850.00)
 > - Descriptive formats ($750 pw, $750 PER WEEK, $750 Per week, $750 per week, $750 weekly)
@@ -55,14 +57,14 @@ def extract_numbers(price):
         return int(match.group().replace(',', '')) if match else None # Remove commas and convert to integer
     return None
 
-# Apply to column Price
-df['Price'] = df['Price'].apply(extract_numbers)
+# Apply to column 'Price'
+df['price'] = df['price'].apply(extract_numbers)
 ```
 <br>
 
 2. **Extraneous text in numeric fields**
 
-> This issue occurs in 3 fields (`Bed`, `Bath`, and `Parking`) when numeric values are mixed with unnecessary text (e.g: 2 Beds, 4 Parking), making it difficult to process or analyze the data numerically.
+> This issue occurs in 3 fields (`bed`, `bath`, and `parking`) when numeric values are mixed with unnecessary text (e.g: 2 Beds, 4 Parking), making it difficult to process or analyze the data numerically.
 To address this issue, I extract only numeric values.
 
 ```python
@@ -73,47 +75,47 @@ def extract_count(count):
     return None
 ```
 
-Then, apply the function to `Bed`, `Bath`, and `Parking`
+Then, apply the function to `bed`, `bath`, and `parking`
 
 ```python
-df['Bed'] = df['Bed'].apply(extract_count)
-df['Bath'] = df['Bath'].apply(extract_count)
-df['Parking'] = df['Parking'].apply(extract_count)
+df['bed'] = df['bed'].apply(extract_count)
+df['bath'] = df['bath'].apply(extract_count)
+df['parking'] = df['parking'].apply(extract_count)
 ```
-Let's check the dtypes of `Bed`, `Bath`, and `Parking`. These values are now stored as **float** instead of **integers**. Since a property cannot have half a bedroom or bathroom, we needed to convert them into whole numbers. I also filled missing values with 0.
+Let's check the dtypes of `bed`, `bath`, and `parking`. These values are now stored as **float** instead of **integers**. Since a property cannot have half a bedroom or bathroom, we needed to convert them into whole numbers. I also filled missing values with 0.
 ```python
 # Handle missing values and convert values to int
-df['Bed'] = df['Bed'].fillna(0).astype(int)
-df['Bath'] = df['Bath'].fillna(0).astype(int)
-df['Parking'] = df['Parking'].fillna(0).astype(int)
+df['bed'] = df['bed'].fillna(0).astype(int)
+df['bath'] = df['bath'].fillna(0).astype(int)
+df['parking'] = df['parking'].fillna(0).astype(int)
 ```
 <br>
 
 3. **Cleaning up Address**
-> An issue was spotted in the `Address` column - all values ended with a trailing comma, and possibly with invisible spaces.
+> An issue was spotted in the `address` column - all values ended with a trailing comma, and possibly with invisible spaces.
 > To clean this up, let's strip these unnecessary characters:
 
 ```python
-# Remove comma and any whitespace at the end of column "Address"
-df['Address'] = df['Address'].str.rstrip(', ')
+# Remove comma and any whitespace at the end of column "address"
+df['address'] = df['address'].str.rstrip(', ')
 ```
 <br>
 
-4. **Check inconsistencies in `Suburb` and `State` names**
+4. **Check inconsistencies in `suburb` and `state` names**
 
-Let's print out unique names of `Suburb` and `State`
+Let's print out unique names of `suburb` and `state`
 → There is no whitespace, all characters are uppercase.
 ```python
-df["Suburb"].unique()
+df["suburb"].unique()
 ```
 ```python
-df["State"].unique()
+df["state"].unique()
 ```
 <br>
 
 Now, let's uncover the diversity within our dataset. How many unique suburbs are represented?
 ```python
-unique_suburb = df["Suburb"].nunique()
+unique_suburb = df["suburb"].nunique()
 print(f"Number of unique suburbs: {unique_suburb}")
 ```
 > Number of unique suburbs: 475
@@ -134,7 +136,7 @@ Bath             0
 Parking          0
 dtype: int64
 ```
-> Null values only appear in `Price`. One possible method would be filling them with mean values.
+> Null values only appear in `price`. One possible method would be filling them with mean values.
 
 However, we first need to take a look at prices to explore whether our dataset contains unreasonable values.
 Let's take a look at the distribution of property prices!
@@ -155,7 +157,7 @@ In reality, finding a property at such a very low weekly rent of under $100 is a
 Let's explore deeply properties with the rent exceeding $3,000 per week:
 
 ```python
-high_rent = df[df["Price"] >= 3000]
+high_rent = df[df["price"] >= 3000]
 ```
 <div align="center">
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/e697bfc1-9321-4a54-a835-25e01938fad1" />
@@ -165,20 +167,20 @@ It seems that the high-rent properties are reasonable and possible. All properti
 
 Now let's drop properties having rent of under $100 per week:
 ```python
-df = df[(df["Price"] > 100) | (df["Price"].isna())]
+df = df[(df["price"] > 100) | (df["price"].isna())]
 ```
 <br>
 
 **Fill null values with mean**
 ```python
-df["Price"] = df["Price"].fillna(df["Price"].mean())
+df["price"] = df["price"].fillna(df["price"].mean())
 ```
 <br>
 
 6. **Properties with missing room details**
 
 ```python
-imcomplete_listing = df.loc[(df['Bed'] == 0) & (df['Bath'] == 0) & (df['Parking'] == 0)]
+imcomplete_listing = df.loc[(df['bed'] == 0) & (df['bath'] == 0) & (df['parking'] == 0)]
 ```
 <div align="center">
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/a41d6916-9da3-4f90-b8b5-2170dd1dc004" />
@@ -186,6 +188,6 @@ imcomplete_listing = df.loc[(df['Bed'] == 0) & (df['Bath'] == 0) & (df['Parking'
 
 A property had no bedrooms, bathrooms, or parking spaces listed? That didn't seem right. We then have to drop these listings.
 ```python
-df = df[~((df['Bed'] == 0) & (df['Bath'] == 0) & (df['Parking'] == 0))]
+df = df[~((df['bed'] == 0) & (df['bath'] == 0) & (df['parking'] == 0))]
 ```
 The cleaned dataset is saved as `cleaned_property_data.csv`
