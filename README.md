@@ -9,18 +9,21 @@ This project involves scraping rental property data from [domain](https://www.do
 - `scraper.py`: a Python script to scrape property data from [domain](https://www.domain.com.au/) website
 - `database.py`: A script to create a database to store data
 - `properties.db`:  SQLite database file for storing scraped property data
-- `properties.csv`: Raw property data 
-- `data_cleaning_and_EDA.ipynb`: a script for cleaning data and performing EDA
+- `properties.csv`: Raw property data
 - `cleaned_property_data.csv`: cleaned data for analysis
+- `data_cleaning.ipynb`: a Jupyter Notebook that outlines the data cleaning process
+- `exploratory_data_analysis.jpynb`: a Jupyter Notebook for performing exploratory data analysis (EDA), visualizing key trends, relationships, and distributions in the data.
+- `README.md`: a markdown file providing an overview of the project, including a description, project structure, and links to key files for easy navigation
+- `data_cleaning.md`: a markdown file that outlines the data cleaning process
+- `data_queries.md`: a markdown file that describes SQL queries to answer key business questions and generate insights
 - `property_data_management_ERD.png`: Entity-Relationship Diagram (ERD) for a real estate management database
-- `requirements.txt`:  a list of all Python packages required to run the project.
-- `README.md`: a markdown file
+- `requirements.txt`:  a list of all Python packages required to run the project
 <br>
 
 
-[**How is the data cleaned?**](data_cleaning.MD)
+[**How is the data cleaned?**](data_cleaning.md)
 
-[**What does the data reveal?**](exploratory_data_analysis.md)
+[**What does the data reveal?**](exploratory_data_analysis.jpynb)
 
 [**How does SQL unlock Rental Market Insights?**](data_queries.md)
 
@@ -33,4 +36,5 @@ This project involves scraping rental property data from [domain](https://www.do
 <br>
 
 ## **References**
-https://www.domain.com.au/news/the-top-10-most-expensive-suburbs-in-australia-in-2024-are-worth-a-cool-55-1-million-combined-1259885/
+Domain. (2024). *The top 10 most expensive suburbs in Australia in 2024 are worth a cool $55.1 million combined*. Domain. https://www.domain.com.au/news/the-top-10-most-expensive-suburbs-in-australia-in-2024-are-worth-a-cool-55-1-million-combined-1259885/
+
