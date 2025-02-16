@@ -23,7 +23,7 @@ This project involves scraping rental property data from [domain](https://www.do
 
 [**How is the data cleaned?**](data_cleaning.md)
 
-[**What does the data reveal?**](exploratory_data_analysis.jpynb)
+[**What does the data reveal?**](exploratory_data_analysis.ipynb)
 
 [**How does SQL unlock Rental Market Insights?**](data_queries.md)
 
